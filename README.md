@@ -1,7 +1,6 @@
 Pharmacy Management System
 A complete Java-based desktop application for small pharmacies – built with Object-Oriented Programming principles, file-based persistence, and a modern GUI (Swing). It replaces manual record‑keeping with a digital solution that manages inventory, automates sales, provides role‑based access, and issues proactive alerts for stock and expiry.
 
-<p align="center"> <img src="screenshot.png" alt="GUI Dashboard" width="600"/> </p>
 Features
 Inventory Management – Add, update, delete, search, and view all medicines with low‑stock warnings.
 
