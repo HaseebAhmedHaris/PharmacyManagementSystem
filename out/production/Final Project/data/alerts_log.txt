@@ -1,0 +1,593 @@
+04/05/2026 22:52:30 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+04/05/2026 22:52:30 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+04/05/2026 22:52:30 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+04/05/2026 23:15:44 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+04/05/2026 23:15:44 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+04/05/2026 23:15:44 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:27:49 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:27:49 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:27:49 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:27:49 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:27:49 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:27:49 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:27:49 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:27:49 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:29:29 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:29:29 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:29:29 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:29:29 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:29:29 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:29:29 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:29:29 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:29:29 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:32:00 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:32:00 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:32:00 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:32:00 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:32:00 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:32:00 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:32:00 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:32:00 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:32:11 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:32:11 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:32:11 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:32:11 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:32:11 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:32:11 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:32:11 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:32:11 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:32:33 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:32:33 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:32:33 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:32:33 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:32:33 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:32:33 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:32:33 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:32:33 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:33:03 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:33:03 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:33:03 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:33:03 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:33:03 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:33:03 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:33:03 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:33:03 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:33:04 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:33:04 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:33:04 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:33:04 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:33:04 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:33:04 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:33:04 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:33:04 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:37:50 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:37:50 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:37:50 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:37:50 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:37:51 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:37:51 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:37:51 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:37:51 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:37:58 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:37:58 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:37:58 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:37:58 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:37:58 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:37:58 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:37:58 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:37:58 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:38:07 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:38:07 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:38:07 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:38:07 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:38:07 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:38:07 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:38:07 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:38:07 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:38:26 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:38:26 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:38:26 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:38:26 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:38:26 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:38:26 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:38:26 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:38:26 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:38:30 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:38:30 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:38:30 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:38:30 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:38:30 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:38:30 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:38:30 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:38:30 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:38:41 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:38:41 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:38:41 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:38:41 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:38:41 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:38:41 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:38:41 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:38:41 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:38:43 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:38:43 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:38:43 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:38:43 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+05/05/2026 20:38:43 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+05/05/2026 20:38:43 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+05/05/2026 20:38:43 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 27 day(s) on 01 Jun 2026
+05/05/2026 20:38:43 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 08:59:59 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 08:59:59 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 08:59:59 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 08:59:59 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 08:59:59 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 08:59:59 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 08:59:59 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 08:59:59 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 09:00:10 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 09:00:10 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 09:00:10 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 09:00:10 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 09:00:10 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 09:00:10 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 09:00:10 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 09:00:10 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 09:01:47 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 09:01:47 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 09:01:47 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 09:01:47 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 09:01:47 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 09:01:47 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 09:01:47 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 09:01:47 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 09:03:26 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 09:03:26 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 09:03:26 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 09:03:26 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 09:03:48 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 09:03:48 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 09:03:48 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 09:03:48 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 09:04:10 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 09:04:10 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 09:04:10 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 09:04:10 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 09:04:10 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 09:04:10 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 09:04:10 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 09:04:10 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 11:14:53 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 11:14:53 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 11:14:53 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 11:16:10 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 11:16:10 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 11:16:10 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 11:16:10 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 11:16:10 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 11:16:10 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 11:16:10 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 11:16:10 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 11:16:23 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 11:16:23 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 11:16:23 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 11:16:23 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 11:16:23 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 11:16:23 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 11:16:23 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 11:16:23 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 11:19:23 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 11:19:23 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 11:19:23 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 11:19:23 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 11:19:23 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 11:19:23 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 11:19:23 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 11:19:23 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 12:59:03 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 12:59:03 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 12:59:03 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 12:59:03 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 12:59:03 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 12:59:03 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 12:59:03 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 12:59:03 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 12:59:20 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 12:59:20 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 12:59:20 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 12:59:20 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 12:59:20 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 12:59:20 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 12:59:20 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 12:59:20 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 12:59:37 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 12:59:37 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 12:59:37 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 12:59:37 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 12:59:37 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 12:59:37 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 12:59:37 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 12:59:37 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 13:03:54 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 13:03:54 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 13:03:54 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 13:03:54 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 13:05:38 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 13:05:38 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 13:05:38 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 13:05:38 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 13:05:38 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 13:05:38 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 13:05:38 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 13:05:38 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 13:06:50 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 13:06:50 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 13:06:50 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 13:06:50 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 13:06:50 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 13:06:50 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 13:06:50 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 13:06:50 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 13:06:54 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 13:06:54 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 13:06:54 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 13:06:54 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 13:06:54 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 13:06:54 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 13:06:54 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 13:06:54 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 13:07:04 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 13:07:04 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 13:07:04 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 13:07:04 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 13:12:14 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 13:12:14 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 13:12:14 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 13:12:14 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+06/05/2026 13:12:14 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+06/05/2026 13:12:14 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+06/05/2026 13:12:14 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 26 day(s) on 01 Jun 2026
+06/05/2026 13:12:14 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:19:13 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:19:13 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:19:13 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:19:13 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:19:13 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:19:13 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:19:13 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:19:13 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:19:33 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:19:33 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:19:33 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:19:33 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:19:33 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:19:33 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:19:33 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:19:33 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:19:53 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:19:53 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:19:53 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:19:53 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:19:53 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:19:53 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:19:53 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:19:53 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:20:37 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:20:37 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:20:37 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:20:37 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:20:37 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:20:37 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:20:37 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:20:37 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:25:38 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:25:38 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:25:38 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:25:38 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:25:38 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:25:38 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:25:38 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:25:38 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:25:44 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:25:44 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:25:44 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:25:44 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:25:44 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:25:44 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:25:44 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:25:44 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:25:59 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:25:59 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:25:59 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:25:59 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:25:59 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:25:59 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:25:59 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:25:59 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:29:29 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:29:29 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:29:29 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:29:29 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:29:29 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:29:29 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:29:29 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:29:29 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:29:35 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:29:35 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:29:35 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:29:35 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:29:35 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:29:35 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:29:35 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:29:35 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:41:25 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:41:25 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:41:25 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:41:25 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:41:41 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:41:41 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:41:41 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:41:41 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:41:53 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:41:53 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:41:53 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:41:53 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:52:00 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:52:00 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:52:00 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:52:00 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 21:52:06 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 21:52:06 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 21:52:06 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 21:52:06 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:00:07 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:00:07 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:00:07 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:00:07 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:04:47 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:04:47 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:04:47 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:04:47 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:06:59 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:06:59 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:06:59 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:06:59 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:07:04 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:07:04 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:07:04 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:07:04 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:09:17 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:09:17 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:09:17 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:09:17 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:09:24 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:09:24 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:09:24 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:09:24 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:09:52 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:09:52 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:09:52 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:09:52 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:09:56 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:09:56 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:09:56 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:09:56 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:14:32 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:14:32 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:14:32 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:14:32 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:14:37 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:14:37 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:14:37 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:14:37 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:17:06 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:17:06 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:17:06 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:17:06 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:17:12 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:17:12 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:17:12 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:17:12 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:17:21 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:17:21 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:17:21 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:17:21 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:17:34 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:17:34 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:17:34 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:17:34 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:17:36 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:17:36 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:17:36 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:17:36 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:17:37 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:17:37 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:17:37 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:17:37 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:17:38 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:17:38 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:17:38 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:17:38 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:17:45 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:17:45 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:17:45 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:17:45 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:18:30 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:18:30 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:18:30 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:18:30 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:18:34 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:18:34 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:18:34 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:18:34 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:18:35 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:18:35 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:18:35 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:18:35 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:18:52 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:18:52 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:18:52 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:18:52 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:21:03 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:21:03 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:21:03 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:21:03 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:21:12 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:21:12 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:21:12 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:21:12 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:21:30 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:21:30 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:21:30 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:21:30 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:25:28 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:25:28 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:25:28 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:25:28 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:28:08 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:28:08 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:28:08 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:28:08 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 22:28:43 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 22:28:43 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 22:28:43 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 22:28:43 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 23:01:01 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 23:01:01 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 23:01:01 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 23:01:01 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 23:01:13 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 23:01:13 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 23:01:13 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 23:01:13 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 23:02:00 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 23:02:00 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 23:02:00 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 23:02:00 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+08/05/2026 23:02:08 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+08/05/2026 23:02:08 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+08/05/2026 23:02:08 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 24 day(s) on 01 Jun 2026
+08/05/2026 23:02:08 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 12:24:24 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 12:24:24 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 12:24:24 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 12:24:24 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 12:24:38 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 12:24:38 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 12:24:38 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 12:24:38 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 12:37:22 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 12:37:22 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 12:37:22 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 12:37:22 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 12:37:28 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 12:37:28 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 12:37:28 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 12:37:28 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 12:37:39 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 12:37:39 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 12:37:39 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 12:37:39 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 12:37:58 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 12:37:58 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 12:37:58 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 12:37:58 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 12:38:19 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 12:38:19 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 12:38:19 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 12:38:19 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 12:39:21 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 12:39:21 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 12:39:21 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 12:39:21 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 12:44:25 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 12:44:25 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 12:44:25 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 12:44:25 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 12:44:33 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 12:44:33 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 12:44:33 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 12:44:33 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 12:44:41 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 12:44:41 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 12:44:41 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 12:44:41 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 13:35:45 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 13:35:45 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 13:35:45 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 13:35:45 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 13:35:50 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 13:35:50 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 13:35:50 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 13:35:50 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 13:37:42 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 13:37:42 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 13:37:42 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 13:37:42 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 13:37:46 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 13:37:46 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 13:37:46 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 13:37:46 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 17:22:10 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 17:22:10 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 17:22:10 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 17:22:10 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 17:22:16 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 17:22:16 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 17:22:16 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 17:22:16 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 17:24:56 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 17:24:56 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 17:24:56 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 17:24:56 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 17:25:01 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 17:25:01 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 17:25:01 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 17:25:01 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 17:29:14 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 17:29:14 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 17:29:14 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 17:29:14 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 17:30:35 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 17:30:35 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 17:30:35 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 17:30:35 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 17:30:42 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 17:30:42 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 17:30:42 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 17:30:42 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 17:31:42 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 17:31:42 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 17:31:42 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 17:31:42 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 17:52:48 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 17:52:48 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 17:52:48 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 17:52:48 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+09/05/2026 17:52:58 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+09/05/2026 17:52:58 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+09/05/2026 17:52:58 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 23 day(s) on 01 Jun 2026
+09/05/2026 17:52:58 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+11/05/2026 14:51:11 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+11/05/2026 14:51:11 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+11/05/2026 14:51:11 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 21 day(s) on 01 Jun 2026
+11/05/2026 14:51:11 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+11/05/2026 14:51:21 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+11/05/2026 14:51:21 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+11/05/2026 14:51:21 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 21 day(s) on 01 Jun 2026
+11/05/2026 14:51:21 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+14/05/2026 10:05:33 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+14/05/2026 10:05:33 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+14/05/2026 10:05:33 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 18 day(s) on 01 Jun 2026
+14/05/2026 10:05:33 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+14/05/2026 10:06:14 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+14/05/2026 10:06:14 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+14/05/2026 10:06:14 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 18 day(s) on 01 Jun 2026
+14/05/2026 10:06:14 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+14/05/2026 10:07:23 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+14/05/2026 10:07:23 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+14/05/2026 10:07:23 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 18 day(s) on 01 Jun 2026
+14/05/2026 10:07:23 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+14/05/2026 10:07:24 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+14/05/2026 10:07:24 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+14/05/2026 10:07:24 | EXPIRING SOON! Augmentin (ID: 3001) | expires in 18 day(s) on 01 Jun 2026
+14/05/2026 10:07:24 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025

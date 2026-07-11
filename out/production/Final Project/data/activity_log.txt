@@ -1,0 +1,7 @@
+28/04/2026 22:12:11 | Test run completed
+04/05/2026 23:18:51 | Discount applied: Bill 1 (Panadol) now at 10.0%
+06/05/2026 09:03:48 | Refund processed: Bill 2 (Brufen) amount Rs. 1300.0
+06/05/2026 13:03:54 | Discount applied: Bill 3 (Lantus) now at 10.0%
+06/05/2026 13:07:04 | Refund processed: Bill 3 (Lantus) amount Rs. 9360.0
+09/05/2026 12:39:06 | Discount applied: Bill 4 (Xanax) now at 2.0%
+09/05/2026 17:23:18 | Discount applied: Bill 5 (Panadol) now at 10.0%

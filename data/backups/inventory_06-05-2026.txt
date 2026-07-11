@@ -1,0 +1,19 @@
+1001,Panadol,GSK,580.0,01/12/2027,2499,500,Paracetamol,false
+1002,Brufen,Abbott,650.0,01/05/2027,1200,300,Ibuprofen,false
+1003,Disprin,Reckitt,280.0,01/11/2028,1500,400,Aspirin,false
+1004,Softin,Hilton,350.0,01/09/2027,800,150,Loratadine,false
+1005,Gaviscon,Reckitt,420.0,01/08/2026,500,100,Antacid,false
+1006,Arinac,Abbott,400.0,01/01/2027,1000,300,ColdFlu,false
+2001,Xanax,Pfizer,5000.0,01/04/2026,100,30,Alprazolam,true
+2002,Lexotanil,Roche,1200.0,01/09/2026,150,50,Benzodiazepine,true
+2003,Morphine,Searle,3500.0,01/02/2026,20,10,Opioid,true
+2004,Ritalin,Novartis,2100.0,01/11/2026,40,15,CNSStimulant,true
+2005,Tramadol,Searle,950.0,01/07/2026,200,50,Analgesic,true
+2006,Dormicum,Roche,1400.0,01/10/2026,60,20,Sedative,true
+3001,Augmentin,GSK,1550.0,01/06/2026,400,100,Amoxicillin,true
+3002,Lantus,Sanofi,5200.0,01/12/2025,30,15,Insulin,true
+3003,Glucophage,Merck,480.0,01/11/2026,1000,200,Metformin,true
+3004,Lipitor,Viatris,3200.0,01/01/2028,120,50,Statin,true
+3005,Nexum,Getz,1100.0,01/03/2027,600,100,Omeprazole,true
+3006,Ventolin Inhaler,GSK,750.0,01/08/2027,150,40,Salbutamol,true
+3007,Amlodipine,Novartis,880.0,01/12/2026,500,120,CalciumChannelBlocker,true

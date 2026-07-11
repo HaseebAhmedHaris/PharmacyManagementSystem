@@ -1,0 +1,4433 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 8
+/Kids [ 4 0 R 13 0 R 17 0 R 21 0 R 25 0 R 29 0 R 33 0 R 37 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 16160
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 39.6 688.8 cm
+q
+%begin table rect clip
+n 0 0 m 532.8 0 l 532.8 54 l 7 54 l 3.1304 54 0 50.8696 0 47 c 0 0 l h W* n
+%end table rect clip
+.105882 .164706 .290196 rg
+n 0 54 532.8 -54 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 14 6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 24 Tf 28 TL 72.34 0 Td (Pharmacy Management System) Tj T* -72.34 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 39.6 656.8 cm
+q
+%begin table rect clip
+n 0 0 m 532.8 0 l 532.8 32 l 7 32 l 3.1304 32 0 28.8696 0 25 c 0 0 l h W* n
+%end table rect clip
+.141176 .207843 .329412 rg
+n 0 32 532.8 -32 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 14 12 cm
+q
+.576471 .772549 .992157 rg
+BT 1 0 0 1 0 4 Tm /F3 10 Tf 14 TL 132.92 0 Td (OOP Lab Project \267 Complete Class-by-Class Blueprint) Tj T* -132.92 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 49.2 646.8 cm
+Q
+q
+1 0 0 1 42.48 586.8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 2 0 cm
+q
+%begin table rect clip
+n 0 0 m 79.2 0 l 79.2 48 l 4 48 l 1.7888 48 0 46.2112 0 44 c 0 0 l h W* n
+%end table rect clip
+.937255 .964706 1 rg
+n 0 48 79.2 -48 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 30 cm
+q
+.113725 .305882 .847059 rg
+BT 1 0 0 1 0 -8 Tm /F2 20 Tf 12 TL 30.04 0 Td (8) Tj T* -30.04 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 6 cm
+q
+.419608 .447059 .501961 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 20.487 0 Td (Classes) Tj T* -20.487 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.113725 .305882 .847059 RG
+.8 w
+Q
+Q
+q
+1 J
+1 j
+.113725 .305882 .847059 RG
+.8 w
+n 1.1708 46.8292 m 1.8944 47.5528 2.8944 48 4 48 c 79.2 48 l
+S
+n 0 0 m 79.2 0 l S
+n 0 0 m 0 44 l 0 45.1056 .4472 46.1056 1.1708 46.8292 c
+S
+n 79.2 0 m 79.2 48 l S
+Q
+Q
+q
+1 0 0 1 89.84 0 cm
+q
+%begin table rect clip
+n 0 0 m 79.2 0 l 79.2 60 l 4 60 l 1.7888 60 0 58.2112 0 56 c 0 0 l h W* n
+%end table rect clip
+.937255 .964706 1 rg
+n 0 60 79.2 -60 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 42 cm
+q
+.113725 .305882 .847059 rg
+BT 1 0 0 1 0 -8 Tm /F2 20 Tf 12 TL 30.04 0 Td (3) Tj T* -30.04 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 6 cm
+q
+.419608 .447059 .501961 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL 15.761 0 Td (Core OOP) Tj T* 1.887 0 Td (Concepts) Tj T* -17.648 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.113725 .305882 .847059 RG
+.8 w
+Q
+Q
+q
+1 J
+1 j
+.113725 .305882 .847059 RG
+.8 w
+n 1.1708 58.8292 m 1.8944 59.5528 2.8944 60 4 60 c 79.2 60 l
+S
+n 0 0 m 79.2 0 l S
+n 0 0 m 0 56 l 0 57.1056 .4472 58.1056 1.1708 58.8292 c
+S
+n 79.2 0 m 79.2 60 l S
+Q
+Q
+q
+1 0 0 1 177.68 0 cm
+q
+%begin table rect clip
+n 0 0 m 79.2 0 l 79.2 48 l 4 48 l 1.7888 48 0 46.2112 0 44 c 0 0 l h W* n
+%end table rect clip
+.937255 .964706 1 rg
+n 0 48 79.2 -48 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 30 cm
+q
+.113725 .305882 .847059 rg
+BT 1 0 0 1 0 -8 Tm /F2 20 Tf 12 TL 30.04 0 Td (5) Tj T* -30.04 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 6 cm
+q
+.419608 .447059 .501961 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 6.785 0 Td (File Operations) Tj T* -6.785 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.113725 .305882 .847059 RG
+.8 w
+Q
+Q
+q
+1 J
+1 j
+.113725 .305882 .847059 RG
+.8 w
+n 1.1708 46.8292 m 1.8944 47.5528 2.8944 48 4 48 c 79.2 48 l
+S
+n 0 0 m 79.2 0 l S
+n 0 0 m 0 44 l 0 45.1056 .4472 46.1056 1.1708 46.8292 c
+S
+n 79.2 0 m 79.2 48 l S
+Q
+Q
+q
+1 0 0 1 265.52 0 cm
+q
+%begin table rect clip
+n 0 0 m 79.2 0 l 79.2 48 l 4 48 l 1.7888 48 0 46.2112 0 44 c 0 0 l h W* n
+%end table rect clip
+.937255 .964706 1 rg
+n 0 48 79.2 -48 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 30 cm
+q
+.113725 .305882 .847059 rg
+BT 1 0 0 1 0 -8 Tm /F2 20 Tf 12 TL 30.04 0 Td (2) Tj T* -30.04 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 6 cm
+q
+.419608 .447059 .501961 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 14.58375 0 Td (User Roles) Tj T* -14.58375 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.113725 .305882 .847059 RG
+.8 w
+Q
+Q
+q
+1 J
+1 j
+.113725 .305882 .847059 RG
+.8 w
+n 1.1708 46.8292 m 1.8944 47.5528 2.8944 48 4 48 c 79.2 48 l
+S
+n 0 0 m 79.2 0 l S
+n 0 0 m 0 44 l 0 45.1056 .4472 46.1056 1.1708 46.8292 c
+S
+n 79.2 0 m 79.2 48 l S
+Q
+Q
+q
+1 0 0 1 353.36 0 cm
+q
+%begin table rect clip
+n 0 0 m 79.2 0 l 79.2 48 l 4 48 l 1.7888 48 0 46.2112 0 44 c 0 0 l h W* n
+%end table rect clip
+.937255 .964706 1 rg
+n 0 48 79.2 -48 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 30 cm
+q
+.113725 .305882 .847059 rg
+BT 1 0 0 1 0 -8 Tm /F2 20 Tf 12 TL 30.04 0 Td (4) Tj T* -30.04 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 6 cm
+q
+.419608 .447059 .501961 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 14.10775 0 Td (Alert Types) Tj T* -14.10775 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.113725 .305882 .847059 RG
+.8 w
+Q
+Q
+q
+1 J
+1 j
+.113725 .305882 .847059 RG
+.8 w
+n 1.1708 46.8292 m 1.8944 47.5528 2.8944 48 4 48 c 79.2 48 l
+S
+n 0 0 m 79.2 0 l S
+n 0 0 m 0 44 l 0 45.1056 .4472 46.1056 1.1708 46.8292 c
+S
+n 79.2 0 m 79.2 48 l S
+Q
+Q
+q
+1 0 0 1 441.2 0 cm
+q
+%begin table rect clip
+n 0 0 m 79.2 0 l 79.2 48 l 4 48 l 1.7888 48 0 46.2112 0 44 c 0 0 l h W* n
+%end table rect clip
+.937255 .964706 1 rg
+n 0 48 79.2 -48 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 30 cm
+q
+.113725 .305882 .847059 rg
+BT 1 0 0 1 0 -8 Tm /F2 20 Tf 12 TL 30.04 0 Td (3) Tj T* -30.04 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 6 cm
+q
+.419608 .447059 .501961 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 10.0915 0 Td (Report Types) Tj T* -10.0915 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.113725 .305882 .847059 RG
+.8 w
+Q
+Q
+q
+1 J
+1 j
+.113725 .305882 .847059 RG
+.8 w
+n 1.1708 46.8292 m 1.8944 47.5528 2.8944 48 4 48 c 79.2 48 l
+S
+n 0 0 m 79.2 0 l S
+n 0 0 m 0 44 l 0 45.1056 .4472 46.1056 1.1708 46.8292 c
+S
+n 79.2 0 m 79.2 48 l S
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 49.2 576.8 cm
+Q
+q
+1 0 0 1 39.6 547.8 cm
+q
+%begin table rect clip
+n 0 0 m 532.8 0 l 532.8 29 l 5 29 l 2.236 29 0 26.764 0 24 c 0 0 l h W* n
+%end table rect clip
+.105882 .164706 .290196 rg
+n 0 29 532.8 -29 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 7 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Recommended Build Order) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 49.2 541.8 cm
+Q
+q
+1 0 0 1 39.6 516.8 cm
+q
+.086275 .639216 .290196 rg
+n 0 25 50.4 -25 re f*
+1 1 1 rg
+n 50.4 25 482.4 -25 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 6.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL 3.6955 0 Td (Step 1) Tj T* -3.6955 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 6.5 cm
+q
+.086275 .639216 .290196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (Medicine.java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188 6 cm
+q
+.215686 .254902 .317647 rg
+BT 1 0 0 1 0 4 Tm /F1 9 Tf 13 TL (Base class \227 fields, CRUD, search, array of objects) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.898039 .905882 .921569 RG
+.5 w
+n 0 25 m 532.8 25 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 25 l S
+n 532.8 0 m 532.8 25 l S
+.086275 .639216 .290196 RG
+1.5 w
+n 50.4 0 m 50.4 25 l S
+.898039 .905882 .921569 RG
+.5 w
+n 180 0 m 180 25 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 514.8 cm
+Q
+q
+1 0 0 1 39.6 489.8 cm
+q
+.113725 .305882 .847059 rg
+n 0 25 50.4 -25 re f*
+1 1 1 rg
+n 50.4 25 482.4 -25 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 6.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL 3.6955 0 Td (Step 2) Tj T* -3.6955 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 6.5 cm
+q
+.113725 .305882 .847059 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (FileManager.java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188 6 cm
+q
+.215686 .254902 .317647 rg
+BT 1 0 0 1 0 4 Tm /F1 9 Tf 13 TL (Save and load inventory from file \227 persistence) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.898039 .905882 .921569 RG
+.5 w
+n 0 25 m 532.8 25 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 25 l S
+n 532.8 0 m 532.8 25 l S
+.113725 .305882 .847059 RG
+1.5 w
+n 50.4 0 m 50.4 25 l S
+.898039 .905882 .921569 RG
+.5 w
+n 180 0 m 180 25 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 487.8 cm
+Q
+q
+1 0 0 1 39.6 462.8 cm
+q
+.05098 .580392 .533333 rg
+n 0 25 50.4 -25 re f*
+1 1 1 rg
+n 50.4 25 482.4 -25 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 6.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL 3.6955 0 Td (Step 3) Tj T* -3.6955 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 6.5 cm
+q
+.05098 .580392 .533333 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (Sales.java + Bill.java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188 6 cm
+q
+.215686 .254902 .317647 rg
+BT 1 0 0 1 0 4 Tm /F1 9 Tf 13 TL (Sell medicine, reduce stock, create bill, log sale) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.898039 .905882 .921569 RG
+.5 w
+n 0 25 m 532.8 25 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 25 l S
+n 532.8 0 m 532.8 25 l S
+.05098 .580392 .533333 RG
+1.5 w
+n 50.4 0 m 50.4 25 l S
+.898039 .905882 .921569 RG
+.5 w
+n 180 0 m 180 25 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 460.8 cm
+Q
+q
+1 0 0 1 39.6 435.8 cm
+q
+.862745 .14902 .14902 rg
+n 0 25 50.4 -25 re f*
+1 1 1 rg
+n 50.4 25 482.4 -25 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 6.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL 3.6955 0 Td (Step 4) Tj T* -3.6955 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 6.5 cm
+q
+.862745 .14902 .14902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (Admin.java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188 6 cm
+q
+.215686 .254902 .317647 rg
+BT 1 0 0 1 0 4 Tm /F1 9 Tf 13 TL (Password login, restricted access to delete and price changes) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.898039 .905882 .921569 RG
+.5 w
+n 0 25 m 532.8 25 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 25 l S
+n 532.8 0 m 532.8 25 l S
+.862745 .14902 .14902 RG
+1.5 w
+n 50.4 0 m 50.4 25 l S
+.898039 .905882 .921569 RG
+.5 w
+n 180 0 m 180 25 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 433.8 cm
+Q
+q
+1 0 0 1 39.6 408.8 cm
+q
+.85098 .466667 .023529 rg
+n 0 25 50.4 -25 re f*
+1 1 1 rg
+n 50.4 25 482.4 -25 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 6.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL 3.6955 0 Td (Step 5) Tj T* -3.6955 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 6.5 cm
+q
+.85098 .466667 .023529 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (AlertSystem.java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188 6 cm
+q
+.215686 .254902 .317647 rg
+BT 1 0 0 1 0 4 Tm /F1 9 Tf 13 TL (Expiry and low stock checks triggered on startup) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.898039 .905882 .921569 RG
+.5 w
+n 0 25 m 532.8 25 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 25 l S
+n 532.8 0 m 532.8 25 l S
+.85098 .466667 .023529 RG
+1.5 w
+n 50.4 0 m 50.4 25 l S
+.898039 .905882 .921569 RG
+.5 w
+n 180 0 m 180 25 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 406.8 cm
+Q
+q
+1 0 0 1 39.6 381.8 cm
+q
+.486275 .227451 .929412 rg
+n 0 25 50.4 -25 re f*
+1 1 1 rg
+n 50.4 25 482.4 -25 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 6.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL 3.6955 0 Td (Step 6) Tj T* -3.6955 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 6.5 cm
+q
+.486275 .227451 .929412 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (Menu.java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188 6 cm
+q
+.215686 .254902 .317647 rg
+BT 1 0 0 1 0 4 Tm /F1 9 Tf 13 TL (Main menu, Scanner input, ties all classes together) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.898039 .905882 .921569 RG
+.5 w
+n 0 25 m 532.8 25 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 25 l S
+n 532.8 0 m 532.8 25 l S
+.486275 .227451 .929412 RG
+1.5 w
+n 50.4 0 m 50.4 25 l S
+.898039 .905882 .921569 RG
+.5 w
+n 180 0 m 180 25 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 379.8 cm
+Q
+q
+1 0 0 1 39.6 354.8 cm
+q
+.858824 .152941 .466667 rg
+n 0 25 50.4 -25 re f*
+1 1 1 rg
+n 50.4 25 482.4 -25 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 6.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL 3.6955 0 Td (Step 7) Tj T* -3.6955 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 6.5 cm
+q
+.858824 .152941 .466667 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (Extra Features) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188 6 cm
+q
+.215686 .254902 .317647 rg
+BT 1 0 0 1 0 4 Tm /F1 9 Tf 13 TL (Discounts, refunds, reports, backup, multiple roles) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.898039 .905882 .921569 RG
+.5 w
+n 0 25 m 532.8 25 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 25 l S
+n 532.8 0 m 532.8 25 l S
+.858824 .152941 .466667 RG
+1.5 w
+n 50.4 0 m 50.4 25 l S
+.898039 .905882 .921569 RG
+.5 w
+n 180 0 m 180 25 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 352.8 cm
+Q
+q
+1 0 0 1 39.6 327.8 cm
+q
+.419608 .447059 .501961 rg
+n 0 25 50.4 -25 re f*
+1 1 1 rg
+n 50.4 25 482.4 -25 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 6.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL 3.6955 0 Td (Step 8) Tj T* -3.6955 0 Td ET
+Q
+Q
+q
+1 0 0 1 58.4 6.5 cm
+q
+.419608 .447059 .501961 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (GUI) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188 6 cm
+q
+.215686 .254902 .317647 rg
+BT 1 0 0 1 0 4 Tm /F1 9 Tf 13 TL (Add later when taught \227 Menu class makes this easy to plug in) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.898039 .905882 .921569 RG
+.5 w
+n 0 25 m 532.8 25 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 25 l S
+n 532.8 0 m 532.8 25 l S
+.419608 .447059 .501961 RG
+1.5 w
+n 50.4 0 m 50.4 25 l S
+.898039 .905882 .921569 RG
+.5 w
+n 180 0 m 180 25 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 325.8 cm
+Q
+q
+1 0 0 1 49.2 315.8 cm
+Q
+q
+1 0 0 1 39.6 286.8 cm
+q
+%begin table rect clip
+n 0 0 m 532.8 0 l 532.8 29 l 5 29 l 2.236 29 0 26.764 0 24 c 0 0 l h W* n
+%end table rect clip
+.105882 .164706 .290196 rg
+n 0 29 532.8 -29 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 7 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Class Relationship Overview) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 49.2 280.8 cm
+Q
+q
+1 0 0 1 39.6 59.8 cm
+q
+%begin table rect clip
+n 0 0 m 532.8 0 l 532.8 221 l 5 221 l 2.236 221 0 218.764 0 216 c 0 0 l h W* n
+%end table rect clip
+.117647 .160784 .231373 rg
+n 0 221 532.8 -221 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 14 206 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F4 8.5 Tf .886275 .909804 .941176 rg (Menu.java) Tj ( ) Tj ( ) Tj (\(entry) Tj ( ) Tj (point) Tj ( ) Tj (\227) Tj ( ) Tj (controls) Tj ( ) Tj (all) Tj ( ) Tj (user) Tj ( ) Tj (interaction\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 14 189 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F4 8.5 Tf .886275 .909804 .941176 rg ( ) Tj ( ) Tj ( ) Tj ( ) Tj (|) Tj T* ET
+Q
+Q
+q
+1 0 0 1 14 172 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F4 8.5 Tf .886275 .909804 .941176 rg ( ) Tj ( ) Tj ( ) Tj ( ) Tj (+--->) Tj ( ) Tj (Admin.java) Tj ( ) Tj (/) Tj ( ) Tj (Staff.java) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (\(extends) Tj ( ) Tj (abstract) Tj ( ) Tj (User\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 14 155 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F4 8.5 Tf .886275 .909804 .941176 rg ( ) Tj ( ) Tj ( ) Tj ( ) Tj (|) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (password) Tj ( ) Tj (login,) Tj ( ) Tj (role-based) Tj ( ) Tj (access) Tj ( ) Tj (control) Tj T* ET
+Q
+Q
+q
+1 0 0 1 14 138 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F4 8.5 Tf .886275 .909804 .941176 rg ( ) Tj ( ) Tj ( ) Tj ( ) Tj (|) Tj T* ET
+Q
+Q
+q
+1 0 0 1 14 121 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F4 8.5 Tf .886275 .909804 .941176 rg ( ) Tj ( ) Tj ( ) Tj ( ) Tj (+--->) Tj ( ) Tj (Medicine.java) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (\(inventory) Tj ( ) Tj (array,) Tj ( ) Tj (CRUD,) Tj ( ) Tj (search\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 14 104 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F4 8.5 Tf .886275 .909804 .941176 rg ( ) Tj ( ) Tj ( ) Tj ( ) Tj (|) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (PrescriptionMedicine) Tj ( ) Tj (extends) Tj ( ) Tj (Medicine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 14 87 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F4 8.5 Tf .886275 .909804 .941176 rg ( ) Tj ( ) Tj ( ) Tj ( ) Tj (|) Tj T* ET
+Q
+Q
+q
+1 0 0 1 14 70 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F4 8.5 Tf .886275 .909804 .941176 rg ( ) Tj ( ) Tj ( ) Tj ( ) Tj (+--->) Tj ( ) Tj (Sales.java) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (\(sell) Tj ( ) Tj (medicine,) Tj ( ) Tj (profit/loss\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 14 53 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F4 8.5 Tf .886275 .909804 .941176 rg ( ) Tj ( ) Tj ( ) Tj ( ) Tj (|) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (+--) Tj ( ) Tj (creates) Tj ( ) Tj (-->) Tj ( ) Tj (Bill.java) Tj ( ) Tj ( ) Tj (\(one) Tj ( ) Tj (bill) Tj ( ) Tj (per) Tj ( ) Tj (transaction\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 14 36 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F4 8.5 Tf .886275 .909804 .941176 rg ( ) Tj ( ) Tj ( ) Tj ( ) Tj (|) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (+--) Tj ( ) Tj (calls) Tj ( ) Tj ( ) Tj ( ) Tj (-->) Tj ( ) Tj (FileManager.java) Tj ( ) Tj ( ) Tj (\(log) Tj ( ) Tj (the) Tj ( ) Tj (sale\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 14 19 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F4 8.5 Tf .886275 .909804 .941176 rg ( ) Tj ( ) Tj ( ) Tj ( ) Tj (|) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (+--) Tj ( ) Tj (updates) Tj ( ) Tj (-->) Tj ( ) Tj (Medicine) Tj ( ) Tj ( ) Tj (\(reduce) Tj ( ) Tj (stock\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 14 2 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F4 8.5 Tf .886275 .909804 .941176 rg ( ) Tj ( ) Tj ( ) Tj ( ) Tj (|) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.898039 0.905882 0.921569 RG
+0.5 w
+n
+43.2 38 m
+568.8 38 l
+S
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.105882 0.164706 0.290196 rg
+BT
+1 0 0 1 157.96 26 Tm
+(Made by Syed Muhammad Ahmed \227 Executive Director\054 TPX Orlando\054 Florida) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Symbol
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 15 0 R
+/F2 8 0 R
+/F2-0 16 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 8169
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 39.6 640.8 cm
+q
+.117647 .160784 .231373 rg
+n 0 102 532.8 -102 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 14 87 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F4 8.5 Tf .886275 .909804 .941176 rg ( ) Tj ( ) Tj ( ) Tj ( ) Tj (+--->) Tj ( ) Tj (AlertSystem.java) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (\(expiry) Tj ( ) Tj (+) Tj ( ) Tj (low) Tj ( ) Tj (stock) Tj ( ) Tj (\227) Tj ( ) Tj (runs) Tj ( ) Tj (on) Tj ( ) Tj (startup\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 14 70 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F4 8.5 Tf .886275 .909804 .941176 rg ( ) Tj ( ) Tj ( ) Tj ( ) Tj (|) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (+--) Tj ( ) Tj (reads) Tj ( ) Tj (from) Tj ( ) Tj (-->) Tj ( ) Tj (Medicine) Tj ( ) Tj (inventory) Tj T* ET
+Q
+Q
+q
+1 0 0 1 14 53 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F4 8.5 Tf .886275 .909804 .941176 rg ( ) Tj ( ) Tj ( ) Tj ( ) Tj (|) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (+--) Tj ( ) Tj (logs) Tj ( ) Tj (to) Tj ( ) Tj ( ) Tj ( ) Tj (-->) Tj ( ) Tj (FileManager) Tj T* ET
+Q
+Q
+q
+1 0 0 1 14 36 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F4 8.5 Tf .886275 .909804 .941176 rg ( ) Tj ( ) Tj ( ) Tj ( ) Tj (|) Tj T* ET
+Q
+Q
+q
+1 0 0 1 14 19 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F4 8.5 Tf .886275 .909804 .941176 rg ( ) Tj ( ) Tj ( ) Tj ( ) Tj (+--->) Tj ( ) Tj (FileManager.java) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (\(ALL) Tj ( ) Tj (file) Tj ( ) Tj (read/write\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 14 2 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F4 8.5 Tf .886275 .909804 .941176 rg ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (inventory.txt) Tj ( ) Tj ( ) Tj (|) Tj ( ) Tj ( ) Tj (sales_log.txt) Tj ( ) Tj ( ) Tj (|) Tj ( ) Tj ( ) Tj (activity_log.txt) Tj ( ) Tj ( ) Tj (|) Tj ( ) Tj ( ) Tj (backups/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 49.2 628.8 cm
+Q
+q
+1 0 0 1 39.6 599.8 cm
+q
+%begin table rect clip
+n 0 0 m 532.8 0 l 532.8 29 l 5 29 l 2.236 29 0 26.764 0 24 c 0 0 l h W* n
+%end table rect clip
+.105882 .164706 .290196 rg
+n 0 29 532.8 -29 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 7 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Class-by-Class Blueprint) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 49.2 591.8 cm
+Q
+q
+1 0 0 1 43.2 206.8 cm
+q
+%begin table rect clip
+n 0 0 m 525.6 0 l 525.6 385 l 6 385 l 2.6832 385 0 382.3168 0 379 c 0 0 l h W* n
+%end table rect clip
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 329 cm
+q
+.086275 .639216 .290196 rg
+n 0 56 525.6 -56 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 16 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 13 Tm /F2 11 Tf 12 TL 2.942 0 Td (0) Tj T* 0 0 Td (1) Tj T* -2.942 0 Td ET
+Q
+Q
+q
+1 0 0 1 48 10 cm
+q
+BT 1 0 0 1 0 22 Tm 18 TL /F2 14 Tf 1 1 1 rg (Medicine) Tj  T* /F2 9 Tf .796078 .835294 .882353 rg (Medicine.java) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+1 1 1 rg
+n 0 329 525.6 -329 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 116 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 1 0 cm
+q
+.086275 .639216 .290196 rg
+n 0 209 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 189 244.8 -189 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 193 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (FIELDS / ATTRIBUTES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 172 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 String name) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 151 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 String company / supplier) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 130 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 double price) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 109 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 String expiryDate) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 88 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 int quantity \(current stock\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 67 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 int minStockThreshold) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 String category) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 boolean prescriptionRequired) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 int medicineID \(unique auto-generated\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 249.4 42 cm
+q
+.086275 .639216 .290196 rg
+n 0 167 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 147 244.8 -147 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 151 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (METHODS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 130 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 addMedicine\(\) \227 add to inventory array) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 109 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 deleteMedicine\(id\) \227 admin only) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 88 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 updateMedicine\(id\) \227 edit any field) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 67 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 searchByName\(name\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 searchByID\(id\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 viewAll\(\) \227 display full inventory) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 getters and setters for all fields) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 1 0 cm
+q
+.086275 .639216 .290196 rg
+n 0 104 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 84 244.8 -84 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 88 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (LINKED TO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 67 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 FileManager \227 save inventory changes) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 AlertSystem \227 provides stock/expiry data) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Sales \227 stock reduced on sale) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Admin \227 delete and price changes restricted) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 249.4 21 cm
+q
+.086275 .639216 .290196 rg
+n 0 83 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 63 244.8 -63 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 67 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (OOP CONCEPTS USED) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Encapsulation \227 all fields private) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Inheritance \227 PrescriptionMedicine extends this) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Array of objects for inventory) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 J
+1 j
+.086275 .639216 .290196 RG
+1.5 w
+Q
+Q
+q
+1 J
+1 j
+.086275 .639216 .290196 RG
+1.5 w
+n 1.7562 383.2438 m 2.8416 384.3292 4.3416 385 6 385 c 525.6 385 l
+S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 379 l 0 380.6584 .6708 382.1584 1.7562 383.2438 c
+S
+n 525.6 0 m 525.6 385 l S
+Q
+Q
+q
+1 0 0 1 49.2 198.8 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.898039 0.905882 0.921569 RG
+0.5 w
+n
+43.2 38 m
+568.8 38 l
+S
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.105882 0.164706 0.290196 rg
+BT
+1 0 0 1 157.96 26 Tm
+(Made by Syed Muhammad Ahmed \227 Executive Director\054 TPX Orlando\054 Florida) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/Contents 18 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 19 0 R
+/F2 8 0 R
+/F2-0 20 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 8802
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 43.2 504.8 cm
+q
+%begin table rect clip
+n 0 0 m 525.6 0 l 525.6 238 l 6 238 l 2.6832 238 0 235.3168 0 232 c 0 0 l h W* n
+%end table rect clip
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 182 cm
+q
+.396078 .639216 .05098 rg
+n 0 56 525.6 -56 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 16 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 13 Tm /F2 11 Tf 12 TL 2.942 0 Td (0) Tj T* 0 0 Td (2) Tj T* -2.942 0 Td ET
+Q
+Q
+q
+1 0 0 1 48 10 cm
+q
+BT 1 0 0 1 0 22 Tm 18 TL /F2 14 Tf 1 1 1 rg (PrescriptionMedicine) Tj  T* /F2 9 Tf .796078 .835294 .882353 rg (PrescriptionMedicine.java) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+1 1 1 rg
+n 0 182 525.6 -182 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 95 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 1 21 cm
+q
+.396078 .639216 .05098 rg
+n 0 62 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 42 244.8 -42 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 46 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (FIELDS / ATTRIBUTES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Inherits all fields from Medicine) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 String prescriptionNote) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 249.4 0 cm
+q
+.396078 .639216 .05098 rg
+n 0 83 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 63 244.8 -63 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 67 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (METHODS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Inherits all methods from Medicine) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 @Override viewAll\(\) \227 shows prescription warning) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 getPrescriptionNote\(\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 1 21 cm
+q
+.396078 .639216 .05098 rg
+n 0 62 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 42 244.8 -42 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 46 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (LINKED TO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Medicine \227 parent class) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Sales \227 extra warning shown when selling) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 249.4 0 cm
+q
+.396078 .639216 .05098 rg
+n 0 83 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 63 244.8 -63 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 67 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (OOP CONCEPTS USED) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Inheritance \227 extends Medicine) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Polymorphism \227 override viewAll\(\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Demonstrates IS-A relationship) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 J
+1 j
+.396078 .639216 .05098 RG
+1.5 w
+Q
+Q
+q
+1 J
+1 j
+.396078 .639216 .05098 RG
+1.5 w
+n 1.7562 236.2438 m 2.8416 237.3292 4.3416 238 6 238 c 525.6 238 l
+S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 232 l 0 233.6584 .6708 235.1584 1.7562 236.2438 c
+S
+n 525.6 0 m 525.6 238 l S
+Q
+Q
+q
+1 0 0 1 49.2 496.8 cm
+Q
+q
+1 0 0 1 43.2 153.8 cm
+q
+%begin table rect clip
+n 0 0 m 525.6 0 l 525.6 343 l 6 343 l 2.6832 343 0 340.3168 0 337 c 0 0 l h W* n
+%end table rect clip
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 287 cm
+q
+.05098 .580392 .533333 rg
+n 0 56 525.6 -56 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 16 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 13 Tm /F2 11 Tf 12 TL 2.942 0 Td (0) Tj T* 0 0 Td (3) Tj T* -2.942 0 Td ET
+Q
+Q
+q
+1 0 0 1 48 10 cm
+q
+BT 1 0 0 1 0 22 Tm 18 TL /F2 14 Tf 1 1 1 rg (Sales) Tj  T* /F2 9 Tf .796078 .835294 .882353 rg (Sales.java) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+1 1 1 rg
+n 0 287 525.6 -287 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 116 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 1 63 cm
+q
+.05098 .580392 .533333 rg
+n 0 104 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 84 244.8 -84 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 88 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (FIELDS / ATTRIBUTES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 67 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 ArrayList salesLog \(list of Bill objects\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 double totalRevenue) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 double totalProfit) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 double totalLoss) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 249.4 0 cm
+q
+.05098 .580392 .533333 rg
+n 0 167 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 147 244.8 -147 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 151 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (METHODS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 130 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 sellMedicine\(id, quantity\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 109 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 applyDiscount\(percent\) \227 admin only) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 88 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 processRefund\(billID\) \227 reverse a sale) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 67 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 getDailySummary\(date\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 getWeeklySummary\(\) / getMonthlySummary\(\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 getBestSellingMedicine\(\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 calculateProfitLoss\(\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 1 0 cm
+q
+.05098 .580392 .533333 rg
+n 0 104 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 84 244.8 -84 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 88 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (LINKED TO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 67 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Medicine \227 reduce stock on sale) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Bill \227 creates one Bill per transaction) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 FileManager \227 log every sale) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Admin \227 discount and refund restricted) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 249.4 21 cm
+q
+.05098 .580392 .533333 rg
+n 0 83 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 63 244.8 -63 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 67 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (OOP CONCEPTS USED) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Encapsulation \227 revenue fields private) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Composition \227 contains Bill objects) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 File I/O via FileManager) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 J
+1 j
+.05098 .580392 .533333 RG
+1.5 w
+Q
+Q
+q
+1 J
+1 j
+.05098 .580392 .533333 RG
+1.5 w
+n 1.7562 341.2438 m 2.8416 342.3292 4.3416 343 6 343 c 525.6 343 l
+S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 337 l 0 338.6584 .6708 340.1584 1.7562 341.2438 c
+S
+n 525.6 0 m 525.6 343 l S
+Q
+Q
+q
+1 0 0 1 49.2 145.8 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.898039 0.905882 0.921569 RG
+0.5 w
+n
+43.2 38 m
+568.8 38 l
+S
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.105882 0.164706 0.290196 rg
+BT
+1 0 0 1 157.96 26 Tm
+(Made by Syed Muhammad Ahmed \227 Executive Director\054 TPX Orlando\054 Florida) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+19 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 23 0 R
+/F2 8 0 R
+/F2-0 24 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 5072
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 43.2 399.8 cm
+q
+%begin table rect clip
+n 0 0 m 525.6 0 l 525.6 343 l 6 343 l 2.6832 343 0 340.3168 0 337 c 0 0 l h W* n
+%end table rect clip
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 287 cm
+q
+.007843 .517647 .780392 rg
+n 0 56 525.6 -56 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 16 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 13 Tm /F2 11 Tf 12 TL 2.942 0 Td (0) Tj T* 0 0 Td (4) Tj T* -2.942 0 Td ET
+Q
+Q
+q
+1 0 0 1 48 10 cm
+q
+BT 1 0 0 1 0 22 Tm 18 TL /F2 14 Tf 1 1 1 rg (Bill) Tj  T* /F2 9 Tf .796078 .835294 .882353 rg (Bill.java) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+1 1 1 rg
+n 0 287 525.6 -287 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 95 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 1 0 cm
+q
+.007843 .517647 .780392 rg
+n 0 188 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 168 244.8 -168 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 172 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (FIELDS / ATTRIBUTES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 151 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 int billID) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 130 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 String medicineName) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 109 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 int quantitySold) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 88 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 double pricePerUnit) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 67 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 double discountApplied) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 double totalAmount) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 String dateOfSale) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 String soldBy \(staff name\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 249.4 63 cm
+q
+.007843 .517647 .780392 rg
+n 0 125 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 105 244.8 -105 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 109 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (METHODS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 88 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 generateBill\(\) \227 calculates total) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 67 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 printBill\(\) \227 formatted receipt) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 getBillID\(\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 getDateOfSale\(\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 getTotalAmount\(\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 1 21 cm
+q
+.007843 .517647 .780392 rg
+n 0 62 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 42 244.8 -42 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 46 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (LINKED TO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Sales \227 created by Sales on every transaction) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 FileManager \227 bill saved to sales log) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 249.4 0 cm
+q
+.007843 .517647 .780392 rg
+n 0 83 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 63 244.8 -63 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 67 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (OOP CONCEPTS USED) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Encapsulation \227 all fields private) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Composition \227 Sales HAS-A Bill) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Single responsibility \227 only handles billing) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 J
+1 j
+.007843 .517647 .780392 RG
+1.5 w
+Q
+Q
+q
+1 J
+1 j
+.007843 .517647 .780392 RG
+1.5 w
+n 1.7562 341.2438 m 2.8416 342.3292 4.3416 343 6 343 c 525.6 343 l
+S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 337 l 0 338.6584 .6708 340.1584 1.7562 341.2438 c
+S
+n 525.6 0 m 525.6 343 l S
+Q
+Q
+q
+1 0 0 1 49.2 391.8 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.898039 0.905882 0.921569 RG
+0.5 w
+n
+43.2 38 m
+568.8 38 l
+S
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.105882 0.164706 0.290196 rg
+BT
+1 0 0 1 157.96 26 Tm
+(Made by Syed Muhammad Ahmed \227 Executive Director\054 TPX Orlando\054 Florida) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+23 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+24 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+25 0 obj
+<<
+/Contents 26 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 27 0 R
+/F2 8 0 R
+/F2-0 28 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 5548
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 43.2 378.8 cm
+q
+%begin table rect clip
+n 0 0 m 525.6 0 l 525.6 364 l 6 364 l 2.6832 364 0 361.3168 0 358 c 0 0 l h W* n
+%end table rect clip
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 308 cm
+q
+.862745 .14902 .14902 rg
+n 0 56 525.6 -56 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 16 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 13 Tm /F2 11 Tf 12 TL 2.942 0 Td (0) Tj T* 0 0 Td (5) Tj T* -2.942 0 Td ET
+Q
+Q
+q
+1 0 0 1 48 10 cm
+q
+BT 1 0 0 1 0 22 Tm 18 TL /F2 14 Tf 1 1 1 rg (User \(abstract\) + Admin + Staff) Tj  T* /F2 9 Tf .796078 .835294 .882353 rg (Admin.java) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+1 1 1 rg
+n 0 308 525.6 -308 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 116 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 1 84 cm
+q
+.862745 .14902 .14902 rg
+n 0 104 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 84 244.8 -84 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 88 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (FIELDS / ATTRIBUTES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 67 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 String username) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 String password \(private\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 String role \(ADMIN or STAFF\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 int loginAttempts \(max 3 before lockout\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 249.4 0 cm
+q
+.862745 .14902 .14902 rg
+n 0 188 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 168 244.8 -168 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 172 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (METHODS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 151 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 abstract login\(\) \227 subclasses implement) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 130 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Admin: deleteMedia\(id\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 109 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Admin: changePrice\(id, newPrice\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 88 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Admin: applyDiscount\(percent\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 67 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Admin: viewActivityLog\(\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Staff: sellMedicine\(\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Staff: viewInventory\(\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 logActivity\(action\) \227 records everything) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 1 0 cm
+q
+.862745 .14902 .14902 rg
+n 0 104 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 84 244.8 -84 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 88 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (LINKED TO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 67 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Medicine \227 admin controls delete + price) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Sales \227 admin controls discount + refund) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 FileManager \227 activity log saved to file) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Menu \227 login required before access) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 249.4 0 cm
+q
+.862745 .14902 .14902 rg
+n 0 104 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 84 244.8 -84 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 88 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (OOP CONCEPTS USED) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 67 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Abstraction \227 abstract User class) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Inheritance \227 Admin and Staff extend User) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Polymorphism \227 login\(\) behaves differently) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Encapsulation \227 password is private) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 J
+1 j
+.862745 .14902 .14902 RG
+1.5 w
+Q
+Q
+q
+1 J
+1 j
+.862745 .14902 .14902 RG
+1.5 w
+n 1.7562 362.2438 m 2.8416 363.3292 4.3416 364 6 364 c 525.6 364 l
+S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 358 l 0 359.6584 .6708 361.1584 1.7562 362.2438 c
+S
+n 525.6 0 m 525.6 364 l S
+Q
+Q
+q
+1 0 0 1 49.2 370.8 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.898039 0.905882 0.921569 RG
+0.5 w
+n
+43.2 38 m
+568.8 38 l
+S
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.105882 0.164706 0.290196 rg
+BT
+1 0 0 1 157.96 26 Tm
+(Made by Syed Muhammad Ahmed \227 Executive Director\054 TPX Orlando\054 Florida) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+27 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+28 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+29 0 obj
+<<
+/Contents 30 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 31 0 R
+/F2 8 0 R
+/F2-0 32 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+30 0 obj
+<<
+/Length 10017
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 43.2 378.8 cm
+q
+%begin table rect clip
+n 0 0 m 525.6 0 l 525.6 364 l 6 364 l 2.6832 364 0 361.3168 0 358 c 0 0 l h W* n
+%end table rect clip
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 308 cm
+q
+.113725 .305882 .847059 rg
+n 0 56 525.6 -56 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 16 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 13 Tm /F2 11 Tf 12 TL 2.942 0 Td (0) Tj T* 0 0 Td (6) Tj T* -2.942 0 Td ET
+Q
+Q
+q
+1 0 0 1 48 10 cm
+q
+BT 1 0 0 1 0 22 Tm 18 TL /F2 14 Tf 1 1 1 rg (FileManager) Tj  T* /F2 9 Tf .796078 .835294 .882353 rg (FileManager.java) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+1 1 1 rg
+n 0 308 525.6 -308 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 116 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 1 63 cm
+q
+.113725 .305882 .847059 rg
+n 0 125 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 105 244.8 -105 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 109 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (FIELDS / ATTRIBUTES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 88 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 String inventoryFilePath) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 67 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 String salesLogFilePath) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 String activityLogFilePath) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 String alertLogFilePath) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 String backupFolderPath) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 249.4 0 cm
+q
+.113725 .305882 .847059 rg
+n 0 188 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 168 244.8 -168 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 172 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (METHODS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 151 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 loadInventory\(\) \227 reads on startup) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 130 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 saveInventory\(\) \227 writes on exit) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 109 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 logSale\(Bill\) \227 appends to sales log) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 88 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 loadSalesLog\(\) \227 reads all past sales) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 67 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 logActivity\(action\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 generateBackup\(\) \227 dated backup copy) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 exportDailyReport\(date\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 exportWeeklyReport\(\) / exportMonthlyReport\(\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 1 0 cm
+q
+.113725 .305882 .847059 rg
+n 0 104 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 84 244.8 -84 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 88 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (LINKED TO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 67 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Medicine \227 load/save inventory) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Sales + Bill \227 log every transaction) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Admin \227 save activity log) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 AlertSystem \227 reads inventory for checks) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 249.4 21 cm
+q
+.113725 .305882 .847059 rg
+n 0 83 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 63 244.8 -63 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 67 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (OOP CONCEPTS USED) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Single Responsibility \227 all file ops here) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 File I/O \227 core of this class) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Exception Handling \227 FileNotFoundException) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 J
+1 j
+.113725 .305882 .847059 RG
+1.5 w
+Q
+Q
+q
+1 J
+1 j
+.113725 .305882 .847059 RG
+1.5 w
+n 1.7562 362.2438 m 2.8416 363.3292 4.3416 364 6 364 c 525.6 364 l
+S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 358 l 0 359.6584 .6708 361.1584 1.7562 362.2438 c
+S
+n 525.6 0 m 525.6 364 l S
+Q
+Q
+q
+1 0 0 1 49.2 370.8 cm
+Q
+q
+1 0 0 1 43.2 69.8 cm
+q
+%begin table rect clip
+n 0 0 m 525.6 0 l 525.6 301 l 6 301 l 2.6832 301 0 298.3168 0 295 c 0 0 l h W* n
+%end table rect clip
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 245 cm
+q
+.85098 .466667 .023529 rg
+n 0 56 525.6 -56 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 16 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 13 Tm /F2 11 Tf 12 TL 2.942 0 Td (0) Tj T* 0 0 Td (7) Tj T* -2.942 0 Td ET
+Q
+Q
+q
+1 0 0 1 48 10 cm
+q
+BT 1 0 0 1 0 22 Tm 18 TL /F2 14 Tf 1 1 1 rg (AlertSystem) Tj  T* /F2 9 Tf .796078 .835294 .882353 rg (AlertSystem.java) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+1 1 1 rg
+n 0 245 525.6 -245 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 95 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 1 63 cm
+q
+.85098 .466667 .023529 rg
+n 0 83 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 63 244.8 -63 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 67 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (FIELDS / ATTRIBUTES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 int lowStockThreshold \(default\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 int expiryWarningDays \(warn X days before\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 ArrayList alertHistory \(past alerts\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 249.4 0 cm
+q
+.85098 .466667 .023529 rg
+n 0 146 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 126 244.8 -126 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 130 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (METHODS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 109 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 checkAllOnStartup\(\) \227 runs all checks) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 88 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 checkExpiry\(\) \227 flags expiring soon) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 67 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 checkLowStock\(\) \227 flags below threshold) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 showAlerts\(\) \227 print warnings) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 saveAlertHistory\(\) \227 log via FileManager) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 getAlertHistory\(\) \227 view past alerts) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 1 0 cm
+q
+.85098 .466667 .023529 rg
+n 0 83 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 63 244.8 -63 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 67 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (LINKED TO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Medicine \227 reads stock and expiry data) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 FileManager \227 saves alert history) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Menu \227 alerts shown before menu appears) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 249.4 0 cm
+q
+.85098 .466667 .023529 rg
+n 0 83 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 63 244.8 -63 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 67 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (OOP CONCEPTS USED) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Encapsulation \227 thresholds configurable) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Exception Handling \227 date parsing) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Separation of concerns \227 alerts isolated) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 J
+1 j
+.85098 .466667 .023529 RG
+1.5 w
+Q
+Q
+q
+1 J
+1 j
+.85098 .466667 .023529 RG
+1.5 w
+n 1.7562 299.2438 m 2.8416 300.3292 4.3416 301 6 301 c 525.6 301 l
+S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 295 l 0 296.6584 .6708 298.1584 1.7562 299.2438 c
+S
+n 525.6 0 m 525.6 301 l S
+Q
+Q
+q
+1 0 0 1 49.2 61.8 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.898039 0.905882 0.921569 RG
+0.5 w
+n
+43.2 38 m
+568.8 38 l
+S
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.105882 0.164706 0.290196 rg
+BT
+1 0 0 1 157.96 26 Tm
+(Made by Syed Muhammad Ahmed \227 Executive Director\054 TPX Orlando\054 Florida) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+31 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+32 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+33 0 obj
+<<
+/Contents 34 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 35 0 R
+/F2 8 0 R
+/F2-0 36 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 10272
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 43.2 399.8 cm
+q
+%begin table rect clip
+n 0 0 m 525.6 0 l 525.6 343 l 6 343 l 2.6832 343 0 340.3168 0 337 c 0 0 l h W* n
+%end table rect clip
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 287 cm
+q
+.486275 .227451 .929412 rg
+n 0 56 525.6 -56 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 16 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 13 Tm /F2 11 Tf 12 TL 2.942 0 Td (0) Tj T* 0 0 Td (8) Tj T* -2.942 0 Td ET
+Q
+Q
+q
+1 0 0 1 48 10 cm
+q
+BT 1 0 0 1 0 22 Tm 18 TL /F2 14 Tf 1 1 1 rg (Menu) Tj  T* /F2 9 Tf .796078 .835294 .882353 rg (Menu.java \(main class\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+1 1 1 rg
+n 0 287 525.6 -287 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 116 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 1 42 cm
+q
+.486275 .227451 .929412 rg
+n 0 125 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 105 244.8 -105 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 109 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (FIELDS / ATTRIBUTES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 88 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Scanner scanner) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 67 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Medicine[] inventory \(loaded on startup\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 User currentUser \(logged in user\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 FileManager fm \(shared instance\)) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 AlertSystem alertSystem) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 249.4 0 cm
+q
+.486275 .227451 .929412 rg
+n 0 167 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 147 244.8 -147 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 151 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (METHODS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 130 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 main\(\) \227 entry point) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 109 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 showMainMenu\(\) \227 print options) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 88 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 showAdminMenu\(\) \227 admin-only options) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 67 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 showStaffMenu\(\) \227 staff options) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 handleInput\(choice\) \227 routes to correct action) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 startup\(\) \227 load inventory + run alerts) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 shutdown\(\) \227 save inventory + backup) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 1 0 cm
+q
+.486275 .227451 .929412 rg
+n 0 104 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 84 244.8 -84 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 88 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (LINKED TO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 67 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 ALL classes \227 Menu is the controller) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Admin/Staff \227 login before any access) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 AlertSystem \227 run on startup) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 FileManager \227 startup load, shutdown save) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 249.4 0 cm
+q
+.486275 .227451 .929412 rg
+n 0 104 244.8 -20 re f*
+.952941 .956863 .964706 rg
+n 0 84 244.8 -84 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 88 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (OOP CONCEPTS USED) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 67 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Polymorphism \227 currentUser is Admin or Staff) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 46 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Composition \227 contains all class instances) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Separation of UI from logic) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 6 4.5 Tm /F1 8.5 Tf 13 TL -6 0 Td (\177 Easy to replace with GUI later) Tj T* 6 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 J
+1 j
+.486275 .227451 .929412 RG
+1.5 w
+Q
+Q
+q
+1 J
+1 j
+.486275 .227451 .929412 RG
+1.5 w
+n 1.7562 341.2438 m 2.8416 342.3292 4.3416 343 6 343 c 525.6 343 l
+S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 337 l 0 338.6584 .6708 340.1584 1.7562 341.2438 c
+S
+n 525.6 0 m 525.6 343 l S
+Q
+Q
+q
+1 0 0 1 49.2 391.8 cm
+Q
+q
+1 0 0 1 39.6 362.8 cm
+q
+%begin table rect clip
+n 0 0 m 532.8 0 l 532.8 29 l 5 29 l 2.236 29 0 26.764 0 24 c 0 0 l h W* n
+%end table rect clip
+.105882 .164706 .290196 rg
+n 0 29 532.8 -29 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 7 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (OOP Concepts Coverage) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 49.2 356.8 cm
+Q
+q
+1 0 0 1 43.2 134.8 cm
+q
+%begin table rect clip
+n 0 0 m 525.6 0 l 525.6 222 l 4 222 l 1.7888 222 0 220.2112 0 218 c 0 0 l h W* n
+%end table rect clip
+.105882 .164706 .290196 rg
+n 0 222 525.6 -22 re f*
+1 1 1 rg
+n 0 200 525.6 -22 re f*
+.952941 .956863 .964706 rg
+n 0 178 525.6 -34 re f*
+1 1 1 rg
+n 0 144 525.6 -34 re f*
+.952941 .956863 .964706 rg
+n 0 110 525.6 -22 re f*
+1 1 1 rg
+n 0 88 525.6 -22 re f*
+.952941 .956863 .964706 rg
+n 0 66 525.6 -22 re f*
+1 1 1 rg
+n 0 44 525.6 -22 re f*
+.952941 .956863 .964706 rg
+n 0 22 525.6 -22 re f*
+1 1 1 rg
+BT /F1 9 Tf 12 TL ET
+q
+1 0 0 1 8 205 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (OOP Concept) Tj T* ET
+Q
+Q
+q
+1 0 0 1 116 205 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (Where Used) Tj T* ET
+Q
+Q
+q
+1 0 0 1 288.8 205 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (How) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT 1 0 0 1 8 186 Tm (Encapsulation) Tj T* ET
+BT 1 0 0 1 116 186 Tm (All classes) Tj T* ET
+BT 1 0 0 1 288.8 186 Tm (All fields private, accessed via getters/setters) Tj T* ET
+BT 1 0 0 1 8 164 Tm (Inheritance) Tj T* ET
+BT 1 0 0 1 116 164 Tm (Medicine ) Tj /F5 9 Tf 12 TL (\256) Tj /F1 9 Tf 12 TL ( PrescriptionMedicine) Tj T* ET
+BT 1 0 0 1 116 152 Tm (User ) Tj /F5 9 Tf 12 TL (\256) Tj /F1 9 Tf 12 TL ( Admin, Staff) Tj T* ET
+BT 1 0 0 1 288.8 164 Tm (Subclasses extend parent, reuse code) Tj T* ET
+BT 1 0 0 1 8 130 Tm (Polymorphism) Tj T* ET
+BT 1 0 0 1 116 130 Tm (User ref \(Admin/Staff\)) Tj T* ET
+BT 1 0 0 1 116 118 Tm (Medicine array) Tj T* ET
+BT 1 0 0 1 288.8 130 Tm (login\(\), viewAll\(\) behave differently at runtime) Tj T* ET
+BT 1 0 0 1 8 96 Tm (Abstraction) Tj T* ET
+BT 1 0 0 1 116 96 Tm (User \(abstract class\)) Tj T* ET
+BT 1 0 0 1 288.8 96 Tm (Admin and Staff forced to implement login\(\)) Tj T* ET
+BT 1 0 0 1 8 74 Tm (File I/O) Tj T* ET
+BT 1 0 0 1 116 74 Tm (FileManager) Tj T* ET
+BT 1 0 0 1 288.8 74 Tm (All persistence through one dedicated class) Tj T* ET
+BT 1 0 0 1 8 52 Tm (Exception Handling) Tj T* ET
+BT 1 0 0 1 116 52 Tm (FileManager, Sales) Tj T* ET
+BT 1 0 0 1 288.8 52 Tm (FileNotFoundException, invalid input, out of stock) Tj T* ET
+BT 1 0 0 1 8 30 Tm (ArrayList) Tj T* ET
+BT 1 0 0 1 116 30 Tm (Sales, AlertSystem) Tj T* ET
+BT 1 0 0 1 288.8 30 Tm (Dynamic list of bills and alerts) Tj T* ET
+BT 1 0 0 1 8 8 Tm (Array of Objects) Tj T* ET
+BT 1 0 0 1 116 8 Tm (Medicine) Tj T* ET
+BT 1 0 0 1 288.8 8 Tm (Fixed inventory array, objects are Medicine instances) Tj T* ET
+q
+1 J
+1 j
+.105882 .164706 .290196 RG
+.8 w
+.898039 .905882 .921569 RG
+.4 w
+n 0 200 m 525.6 200 l S
+n 0 178 m 525.6 178 l S
+n 0 144 m 525.6 144 l S
+n 0 110 m 525.6 110 l S
+n 0 88 m 525.6 88 l S
+n 0 66 m 525.6 66 l S
+n 0 44 m 525.6 44 l S
+n 0 22 m 525.6 22 l S
+n 108 0 m 108 222 l S
+n 280.8 0 m 280.8 222 l S
+Q
+Q
+q
+1 J
+1 j
+.105882 .164706 .290196 RG
+.8 w
+n 1.1708 220.8292 m 1.8944 221.5528 2.8944 222 4 222 c 525.6 222 l
+S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 218 l 0 219.1056 .4472 220.1056 1.1708 220.8292 c
+S
+n 525.6 0 m 525.6 222 l S
+Q
+Q
+q
+1 0 0 1 49.2 124.8 cm
+Q
+q
+1 0 0 1 39.6 95.8 cm
+q
+%begin table rect clip
+n 0 0 m 532.8 0 l 532.8 29 l 5 29 l 2.236 29 0 26.764 0 24 c 0 0 l h W* n
+%end table rect clip
+.05098 .580392 .533333 rg
+n 0 29 532.8 -29 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 7 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Data Files Structure) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 49.2 89.8 cm
+Q
+q
+1 0 0 1 43.2 67.8 cm
+q
+%begin table rect clip
+n 0 0 m 525.6 0 l 525.6 22 l 4 22 l 1.7888 22 0 20.2112 0 18 c 0 0 l h W* n
+%end table rect clip
+.05098 .580392 .533333 rg
+n 0 22 525.6 -22 re f*
+1 1 1 rg
+BT /F1 9 Tf 12 TL ET
+q
+1 0 0 1 8 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (File) Tj T* ET
+Q
+Q
+q
+1 0 0 1 137.6 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (Format) Tj T* ET
+Q
+Q
+q
+1 0 0 1 209.6 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 368 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (Updated When) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.05098 .580392 .533333 RG
+.8 w
+.898039 .905882 .921569 RG
+.4 w
+n 129.6 0 m 129.6 22 l S
+n 201.6 0 m 201.6 22 l S
+n 360 0 m 360 22 l S
+Q
+Q
+q
+1 J
+1 j
+.05098 .580392 .533333 RG
+.8 w
+n 1.1708 20.8292 m 1.8944 21.5528 2.8944 22 4 22 c 525.6 22 l
+S
+n 0 0 m 0 18 l 0 19.1056 .4472 20.1056 1.1708 20.8292 c
+S
+n 525.6 0 m 525.6 22 l S
+.898039 .905882 .921569 RG
+.4 w
+n 0 0 m 525.6 0 l S
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.898039 0.905882 0.921569 RG
+0.5 w
+n
+43.2 38 m
+568.8 38 l
+S
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.105882 0.164706 0.290196 rg
+BT
+1 0 0 1 157.96 26 Tm
+(Made by Syed Muhammad Ahmed \227 Executive Director\054 TPX Orlando\054 Florida) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+35 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+36 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+37 0 obj
+<<
+/Contents 38 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 39 0 R
+/F2 8 0 R
+/F2-0 40 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+38 0 obj
+<<
+/Length 5151
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 43.2 632.8 cm
+q
+1 1 1 rg
+n 0 110 525.6 -22 re f*
+.952941 .956863 .964706 rg
+n 0 88 525.6 -22 re f*
+1 1 1 rg
+n 0 66 525.6 -22 re f*
+.952941 .956863 .964706 rg
+n 0 44 525.6 -22 re f*
+1 1 1 rg
+n 0 22 525.6 -22 re f*
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 8 96 Tm (inventory.txt) Tj T* ET
+BT 1 0 0 1 137.6 96 Tm (CSV per line) Tj T* ET
+BT 1 0 0 1 209.6 96 Tm (All medicine records) Tj T* ET
+BT 1 0 0 1 368 96 Tm (Add / update / delete / sell) Tj T* ET
+BT 1 0 0 1 8 74 Tm (sales_log.txt) Tj T* ET
+BT 1 0 0 1 137.6 74 Tm (CSV per line) Tj T* ET
+BT 1 0 0 1 209.6 74 Tm (Every bill/transaction) Tj T* ET
+BT 1 0 0 1 368 74 Tm (Every sale or refund) Tj T* ET
+BT 1 0 0 1 8 52 Tm (activity_log.txt) Tj T* ET
+BT 1 0 0 1 137.6 52 Tm (Plain text) Tj T* ET
+BT 1 0 0 1 209.6 52 Tm (Admin actions + timestamp) Tj T* ET
+BT 1 0 0 1 368 52 Tm (Every admin action) Tj T* ET
+BT 1 0 0 1 8 30 Tm (alerts_log.txt) Tj T* ET
+BT 1 0 0 1 137.6 30 Tm (Plain text) Tj T* ET
+BT 1 0 0 1 209.6 30 Tm (Past expiry and stock alerts) Tj T* ET
+BT 1 0 0 1 368 30 Tm (Every program startup) Tj T* ET
+BT 1 0 0 1 8 8 Tm (backup/inventory_DD-MM-YYYY.txt) Tj T* ET
+BT 1 0 0 1 137.6 8 Tm (CSV) Tj T* ET
+BT 1 0 0 1 209.6 8 Tm (Dated backup copy) Tj T* ET
+BT 1 0 0 1 368 8 Tm (Every program shutdown) Tj T* ET
+q
+1 J
+1 j
+.05098 .580392 .533333 RG
+.8 w
+n 0 0 m 0 110 l S
+n 525.6 0 m 525.6 110 l S
+n 0 0 m 525.6 0 l S
+.898039 .905882 .921569 RG
+.4 w
+n 0 110 m 525.6 110 l S
+n 0 88 m 525.6 88 l S
+n 0 66 m 525.6 66 l S
+n 0 44 m 525.6 44 l S
+n 0 22 m 525.6 22 l S
+n 129.6 0 m 129.6 110 l S
+n 201.6 0 m 201.6 110 l S
+n 360 0 m 360 110 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 622.8 cm
+Q
+q
+1 0 0 1 39.6 593.8 cm
+q
+%begin table rect clip
+n 0 0 m 532.8 0 l 532.8 29 l 5 29 l 2.236 29 0 26.764 0 24 c 0 0 l h W* n
+%end table rect clip
+.862745 .14902 .14902 rg
+n 0 29 532.8 -29 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 7 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Important Coding Rules to Remember) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 49.2 587.8 cm
+Q
+q
+1 0 0 1 49.2 573.8 cm
+q
+BT 1 0 0 1 14 4.5 Tm -10 0 Td 14 TL /F1 9.5 Tf .121569 .160784 .215686 rg (\177  ) Tj (One ) Tj /F2 9.5 Tf (public class) Tj /F1 9.5 Tf ( per file \227 filename must match the public class name exactly.) Tj T* 10 0 Td ET
+Q
+Q
+q
+1 0 0 1 49.2 558.8 cm
+q
+BT 1 0 0 1 14 4.5 Tm -10 0 Td 14 TL /F1 9.5 Tf .121569 .160784 .215686 rg (\177  ) Tj (All related helper classes go in the ) Tj /F2 9.5 Tf (same file) Tj /F1 9.5 Tf ( to avoid ClassNotFoundException.) Tj T* 10 0 Td ET
+Q
+Q
+q
+1 0 0 1 49.2 543.8 cm
+q
+BT 1 0 0 1 14 4.5 Tm -10 0 Td 14 TL /F1 9.5 Tf .121569 .160784 .215686 rg (\177  ) Tj (All fields should be ) Tj /F2 9.5 Tf (private) Tj /F1 9.5 Tf ( \227 always use getters and setters.) Tj T* 10 0 Td ET
+Q
+Q
+q
+1 0 0 1 49.2 528.8 cm
+q
+BT 1 0 0 1 14 4.5 Tm -10 0 Td 14 TL /F1 9.5 Tf .121569 .160784 .215686 rg (\177  ) Tj (Admin-only methods must ) Tj /F2 9.5 Tf (check role) Tj /F1 9.5 Tf ( before executing \227 throw exception if not admin.) Tj T* 10 0 Td ET
+Q
+Q
+q
+1 0 0 1 49.2 513.8 cm
+q
+BT 1 0 0 1 14 4.5 Tm -10 0 Td 14 TL /F1 9.5 Tf .121569 .160784 .215686 rg (\177  ) Tj (FileManager should be the ) Tj /F2 9.5 Tf (only class) Tj /F1 9.5 Tf ( that touches files directly.) Tj T* 10 0 Td ET
+Q
+Q
+q
+1 0 0 1 49.2 498.8 cm
+q
+BT 1 0 0 1 14 4.5 Tm -10 0 Td 14 TL /F1 9.5 Tf .121569 .160784 .215686 rg (\177  ) Tj (AlertSystem runs ) Tj /F2 9.5 Tf (before the menu is shown) Tj /F1 9.5 Tf ( \227 always check on startup.) Tj T* 10 0 Td ET
+Q
+Q
+q
+1 0 0 1 49.2 483.8 cm
+q
+BT 1 0 0 1 14 4.5 Tm -10 0 Td 14 TL /F1 9.5 Tf .121569 .160784 .215686 rg (\177  ) Tj (Every sale must create a ) Tj /F2 9.5 Tf (Bill object) Tj /F1 9.5 Tf ( and log it via FileManager immediately.) Tj T* 10 0 Td ET
+Q
+Q
+q
+1 0 0 1 49.2 468.8 cm
+q
+BT 1 0 0 1 14 4.5 Tm -10 0 Td 14 TL /F1 9.5 Tf .121569 .160784 .215686 rg (\177  ) Tj (Use ) Tj /F2 9.5 Tf (try-catch) Tj /F1 9.5 Tf ( around all file operations \227 files may not exist on first run.) Tj T* 10 0 Td ET
+Q
+Q
+q
+1 0 0 1 49.2 453.8 cm
+q
+BT 1 0 0 1 14 4.5 Tm -10 0 Td 14 TL /F1 9.5 Tf .121569 .160784 .215686 rg (\177  ) Tj (Medicine array size should be ) Tj /F2 9.5 Tf (fixed and generous) Tj /F1 9.5 Tf ( \(e.g. 100\) since ArrayList may not be taught yet.) Tj T* 10 0 Td ET
+Q
+Q
+q
+1 0 0 1 49.2 438.8 cm
+q
+BT 1 0 0 1 14 4.5 Tm -10 0 Td 14 TL /F1 9.5 Tf .121569 .160784 .215686 rg (\177  ) Tj (Keep Menu class ) Tj /F2 9.5 Tf (only for input/output) Tj /F1 9.5 Tf ( \227 no business logic inside Menu.) Tj T* 10 0 Td ET
+Q
+Q
+q
+1 0 0 1 49.2 429.8 cm
+Q
+q
+1 0 0 1 49.2 428.3 cm
+q
+.5 w
+1 J
+.898039 .905882 .921569 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 49.2 423.3 cm
+Q
+q
+1 0 0 1 49.2 411.3 cm
+q
+.419608 .447059 .501961 rg
+BT 1 0 0 1 0 4.5 Tm /F3 7.5 Tf 12 TL 153.4275 0 Td (Pharmacy Management System \227 OOP Lab Project Blueprint) Tj T* -153.4275 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.898039 0.905882 0.921569 RG
+0.5 w
+n
+43.2 38 m
+568.8 38 l
+S
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.105882 0.164706 0.290196 rg
+BT
+1 0 0 1 157.96 26 Tm
+(Made by Syed Muhammad Ahmed \227 Executive Director\054 TPX Orlando\054 Florida) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+39 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+40 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 41
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000162 00000 n 
+0000000211 00000 n 
+0000000489 00000 n 
+0000016702 00000 n 
+0000016809 00000 n 
+0000016916 00000 n 
+0000017028 00000 n 
+0000017147 00000 n 
+0000017263 00000 n 
+0000017369 00000 n 
+0000017447 00000 n 
+0000017729 00000 n 
+0000025951 00000 n 
+0000026059 00000 n 
+0000026179 00000 n 
+0000026461 00000 n 
+0000035316 00000 n 
+0000035424 00000 n 
+0000035544 00000 n 
+0000035826 00000 n 
+0000040951 00000 n 
+0000041059 00000 n 
+0000041179 00000 n 
+0000041461 00000 n 
+0000047062 00000 n 
+0000047170 00000 n 
+0000047290 00000 n 
+0000047572 00000 n 
+0000057643 00000 n 
+0000057751 00000 n 
+0000057871 00000 n 
+0000058153 00000 n 
+0000068479 00000 n 
+0000068587 00000 n 
+0000068707 00000 n 
+0000068989 00000 n 
+0000074193 00000 n 
+0000074301 00000 n 
+trailer
+<<
+/Size 41
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+74421
+%%EOF

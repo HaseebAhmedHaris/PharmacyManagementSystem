@@ -1,0 +1,1665 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 9
+/Kids [ 4 0 R 11 0 R 15 0 R 19 0 R 23 0 R 27 0 R 31 0 R 35 0 R 39 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 4049
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54 690.4 cm
+q
+.105882 .164706 .290196 rg
+n 0 38 504 -38 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 14 13 cm
+q
+.788235 .658824 .298039 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Chapter 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79.2 10 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Problem Statement) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.788235 .658824 .298039 RG
+1 w
+n 79.2 0 m 79.2 38 l S
+Q
+Q
+Q
+q
+1 0 0 1 78 676.4 cm
+Q
+q
+1 0 0 1 78 566.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 98 Tm /F3 12 Tf 22 TL .69075 Tw (Managing a pharmacy by hand is something that worked a long time ago, but today it causes) Tj T* 0 Tw 2.001231 Tw (more problems than it solves. Most small pharmacies in Pakistan still rely on handwritten) Tj T* 0 Tw -0.14025 Tw (records or simple spreadsheets to keep track of their medicines, sales, and stock. This leads to a) Tj T* 0 Tw .2504 Tw (number of serious issues that affect both the pharmacy staff and the customers who depend on) Tj T* 0 Tw (them.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 448.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 98 Tm /F3 12 Tf 22 TL .976615 Tw (The most common problem is that medicines expire on the shelves without anyone noticing.) Tj T* 0 Tw .846316 Tw (When stock is recorded manually, it is easy for a batch of medicines to sit at the back of the) Tj T* 0 Tw .7384 Tw (shelf while newer stock gets sold. Nobody checks the expiry dates regularly, and by the time) Tj T* 0 Tw 2.444308 Tw (someone does, the expired medicines have already caused losses. In some cases they are) Tj T* 0 Tw (accidentally sold to patients, which is a serious health risk.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 352.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 76 Tm /F3 12 Tf 22 TL 1.1576 Tw (Another issue is running out of stock without warning. A pharmacist might sell the last few) Tj T* 0 Tw -0.101684 Tw (units of a medicine and not realize it until a customer comes in asking for it the next day. There) Tj T* 0 Tw 1.28 Tw (is no system in place to flag when a product is getting low before it actually runs out. This) Tj T* 0 Tw (affects sales, customer trust, and the overall reputation of the pharmacy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 256.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 76 Tm /F3 12 Tf 22 TL .86025 Tw (When a customer asks for a specific medicine that is not available, the staff currently has no) Tj T* 0 Tw .316 Tw (way to quickly suggest an alternative from the same drug family. The pharmacist either has to) Tj T* 0 Tw 4.929231 Tw (rely on memory or send the customer away, both of which are unprofessional and) Tj T* 0 Tw (inconvenient.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 160.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 76 Tm /F3 12 Tf 22 TL 1.1632 Tw (On the management side, there is no proper separation between what a manager can do and) Tj T* 0 Tw .2096 Tw (what a regular employee can do. Any staff member can change prices or delete records, which) Tj T* 0 Tw 3.129 Tw (creates opportunities for errors or misuse. There is also no log of who did what, so if) Tj T* 0 Tw (something goes wrong there is no way to trace it back.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 86.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 54 Tm /F3 12 Tf 22 TL 3.244286 Tw (Sales records are either written in notebooks or kept in basic spreadsheets that are not) Tj T* 0 Tw 2.1392 Tw (connected to the actual stock. This means a sale can be recorded without the stock being) Tj T* 0 Tw .293143 Tw (reduced, leading to inaccurate inventory counts. Generating any kind of sales report at the end) Tj T* 0 Tw ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.788235 0.658824 0.298039 RG
+0.8 w
+n
+50.4 52 m
+561.6 52 l
+S
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.788235 0.658824 0.298039 rg
+BT
+1 0 0 1 155.736 38 Tm
+(Made by Syed Muhammad Ahmed  \227  Executive Director\054 TPX Orlando\054 Florida) Tj
+T*
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+0.419608 0.447059 0.501961 rg
+BT
+1 0 0 1 50.4 24 Tm
+(Pharmacy Management System  \227  Project Proposal) Tj
+T*
+ET
+BT
+1 0 0 1 523.2375 24 Tm
+(Page 1 of 9) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 13 0 R
+/F2 8 0 R
+/F2-0 14 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 3905
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 706.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 10 Tm /F3 12 Tf 22 TL (of the day or month requires going through everything manually, which takes hours.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 632.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 54 Tm /F3 12 Tf 22 TL .4928 Tw (The problem, in short, is that there is no organized system connecting all these parts together.) Tj T* 0 Tw .077143 Tw (The pharmacy runs on disconnected pieces of information, and that is exactly what this project) Tj T* 0 Tw (aims to fix.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 604.4 cm
+Q
+q
+1 0 0 1 78 602.9 cm
+q
+.5 w
+1 J
+.898039 .905882 .921569 RG
+n 0 0 m 456 0 l S
+Q
+Q
+q
+1 0 0 1 78 581.9 cm
+Q
+q
+1 0 0 1 54 543.9 cm
+q
+.105882 .164706 .290196 rg
+n 0 38 504 -38 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 14 13 cm
+q
+.788235 .658824 .298039 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Chapter 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79.2 10 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Goals) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.788235 .658824 .298039 RG
+1 w
+n 79.2 0 m 79.2 38 l S
+Q
+Q
+Q
+q
+1 0 0 1 78 529.9 cm
+Q
+q
+1 0 0 1 78 441.9 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 76 Tm /F3 12 Tf 22 TL .378 Tw (The main goal of this project is to build a working pharmacy management system in Java that) Tj T* 0 Tw .4936 Tw (brings all the essential operations of a pharmacy under one program. The system is not meant) Tj T* 0 Tw .2728 Tw (to be complicated. It is meant to be practical, organized, and something a real pharmacy could) Tj T* 0 Tw (actually use.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 415.9 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (Inventory Management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 323.9 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 76 Tm /F3 12 Tf 22 TL 1.337 Tw (The system should store complete information about each medicine, including its name, the) Tj T* 0 Tw 2.6024 Tw (company that supplies it, its price, its expiry date, the current quantity in stock, and the) Tj T* 0 Tw 1.060941 Tw (category of drug formula it belongs to. All this information should be saved in a file so that) Tj T* 0 Tw (nothing is lost when the program is closed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 297.9 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (Connected Sales System) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 205.9 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 76 Tm /F3 12 Tf 22 TL 1.3608 Tw (When a sale is made, the stock should reduce automatically. A bill should be generated for) Tj T* 0 Tw .415385 Tw (every transaction, showing the medicine name, quantity, price, and total amount. If a discount) Tj T* 0 Tw 1.563789 Tw (is applied, it should appear on the bill. Every sale should be saved to a log file so there is) Tj T* 0 Tw (always a complete record.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 179.9 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (Role-Based Access Control) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 87.9 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 76 Tm /F3 12 Tf 22 TL .2496 Tw (There should be three types of users. The admin has full access, including adding and deleting) Tj T* 0 Tw 2.036 Tw (medicines, changing prices, and viewing reports. The employee can search, sell, and view) Tj T* 0 Tw 2.316 Tw (inventory but cannot make changes to prices or delete records. The customer can browse) Tj T* 0 Tw (available medicines and check prices without needing to log in at all.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.788235 0.658824 0.298039 RG
+0.8 w
+n
+50.4 52 m
+561.6 52 l
+S
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.788235 0.658824 0.298039 rg
+BT
+1 0 0 1 155.736 38 Tm
+(Made by Syed Muhammad Ahmed  \227  Executive Director\054 TPX Orlando\054 Florida) Tj
+T*
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+0.419608 0.447059 0.501961 rg
+BT
+1 0 0 1 50.4 24 Tm
+(Pharmacy Management System  \227  Project Proposal) Tj
+T*
+ET
+BT
+1 0 0 1 523.2375 24 Tm
+(Page 2 of 9) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 17 0 R
+/F2 8 0 R
+/F2-0 18 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 3968
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 712.4 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (Automatic Alert System) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 642.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 54 Tm /F3 12 Tf 22 TL .885429 Tw (Every time the program opens, it should check which medicines are expiring within the next) Tj T* 0 Tw 1.131692 Tw (thirty days and which medicines have fallen below their minimum stock level. All warnings) Tj T* 0 Tw (should be shown before the main menu appears so that nothing gets missed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 616.4 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (Alternative Medicine Suggestions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 524.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 76 Tm /F3 12 Tf 22 TL .631059 Tw (If a customer searches for a medicine that is out of stock, the system should look through the) Tj T* 0 Tw 1.694571 Tw (inventory for other medicines with the same drug formula and suggest them. This way the) Tj T* 0 Tw .240857 Tw (customer is not simply told the medicine is unavailable but is offered something practical they) Tj T* 0 Tw (can use instead.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 498.4 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (File-Based Data Persistence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 384.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 98 Tm /F3 12 Tf 22 TL 1.608 Tw (All data should be saved in files at all times. The inventory file should update whenever a) Tj T* 0 Tw 1.4968 Tw (medicine is added, changed, sold, or deleted. A separate file should keep a record of every) Tj T* 0 Tw .053143 Tw (transaction. An activity log should record every admin action. A dated backup of the inventory) Tj T* 0 Tw 2.672308 Tw (should be created automatically every time the program closes, so previous states of the) Tj T* 0 Tw (inventory can always be recovered.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 356.4 cm
+Q
+q
+1 0 0 1 78 354.9 cm
+q
+.5 w
+1 J
+.898039 .905882 .921569 RG
+n 0 0 m 456 0 l S
+Q
+Q
+q
+1 0 0 1 78 333.9 cm
+Q
+q
+1 0 0 1 54 295.9 cm
+q
+.105882 .164706 .290196 rg
+n 0 38 504 -38 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 14 13 cm
+q
+.788235 .658824 .298039 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Chapter 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79.2 10 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Proposed Idea) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.788235 .658824 .298039 RG
+1 w
+n 79.2 0 m 79.2 38 l S
+Q
+Q
+Q
+q
+1 0 0 1 78 281.9 cm
+Q
+q
+1 0 0 1 78 171.9 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 98 Tm /F3 12 Tf 22 TL .748615 Tw (The idea behind this project came from observing how small pharmacies in our surroundings) Tj T* 0 Tw .753 Tw (actually work. Most of them have no digital system at all. When a customer comes in asking) Tj T* 0 Tw .21375 Tw (for a medicine, the pharmacist either remembers where it is or goes looking for it. When stock) Tj T* 0 Tw 1.0455 Tw (runs out, they find out because a customer asks for something and the shelf is empty. When) Tj T* 0 Tw (medicines expire, they sometimes find out too late.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 97.9 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 54 Tm /F3 12 Tf 22 TL .3555 Tw (We thought about what kind of program would actually help with this, keeping in mind that it) Tj T* 0 Tw .8944 Tw (needs to be simple enough for a regular pharmacy to use without any technical training. The) Tj T* 0 Tw 1.42275 Tw (idea we came up with is a console-based Java application that can be run on any computer) Tj T* 0 Tw ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.788235 0.658824 0.298039 RG
+0.8 w
+n
+50.4 52 m
+561.6 52 l
+S
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.788235 0.658824 0.298039 rg
+BT
+1 0 0 1 155.736 38 Tm
+(Made by Syed Muhammad Ahmed  \227  Executive Director\054 TPX Orlando\054 Florida) Tj
+T*
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+0.419608 0.447059 0.501961 rg
+BT
+1 0 0 1 50.4 24 Tm
+(Pharmacy Management System  \227  Project Proposal) Tj
+T*
+ET
+BT
+1 0 0 1 523.2375 24 Tm
+(Page 3 of 9) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/Contents 20 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 21 0 R
+/F2 8 0 R
+/F2-0 22 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 3889
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 706.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 10 Tm /F3 12 Tf 22 TL (without any additional installation or software.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 610.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 76 Tm /F3 12 Tf 22 TL .31725 Tw (The program starts by asking whether the user is an admin, an employee, or a customer. From) Tj T* 0 Tw .782667 Tw (there, each type of user is given a menu suited to what they are allowed to do. The customer) Tj T* 0 Tw .0704 Tw (menu is the simplest, covering only search and browse. The employee menu adds the ability to) Tj T* 0 Tw (sell medicines and generate bills. The admin menu gives full control over the entire system.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 470.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 120 Tm /F3 12 Tf 22 TL 2.48 Tw (One idea contributed by a team member was the alternative medicine suggestion feature.) Tj T* 0 Tw -0.01725 Tw (Instead of simply showing that a medicine is out of stock, the system checks whether any other) Tj T* 0 Tw 2.098286 Tw (medicine in the inventory shares the same drug formula and displays those options to the) Tj T* 0 Tw .170571 Tw (customer. For example, if Panadol is unavailable, the system would find Calpol or Paracet and) Tj T* 0 Tw 2.147143 Tw (suggest them, since all three contain Paracetamol as the active ingredient. This is a small) Tj T* 0 Tw (feature but it makes the system genuinely useful in practice.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 396.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 54 Tm /F3 12 Tf 22 TL .004941 Tw (The inventory is stored in a plain text file with each medicine on a separate line. This approach) Tj T* 0 Tw 1.545231 Tw (does not require any database software and keeps the system lightweight and portable. The) Tj T* 0 Tw (same method is used for the sales log and the activity log.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 300.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 76 Tm /F3 12 Tf 22 TL .863143 Tw (The alert system came from thinking about what a pharmacist actually needs to know before) Tj T* 0 Tw 3.263077 Tw (starting the day. Before the main menu appears, the program checks the inventory and) Tj T* 0 Tw 2.366182 Tw (highlights anything that needs immediate attention. This way critical information is never) Tj T* 0 Tw (buried inside a menu that someone might forget to check.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 204.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 76 Tm /F3 12 Tf 22 TL 1.062462 Tw (The concept of separating admin access from employee access reflects how a real pharmacy) Tj T* 0 Tw 1.853538 Tw (operates. The owner controls pricing and records. The staff handles sales. The activity log) Tj T* 0 Tw 1.340308 Tw (creates accountability. These are not just technical decisions \227 they are decisions based on) Tj T* 0 Tw (how the business actually works.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 130.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 54 Tm /F3 12 Tf 22 TL .2535 Tw (The idea as a whole is to build something that solves real problems using the concepts learned) Tj T* 0 Tw 3.930667 Tw (in this course, including inheritance, encapsulation, polymorphism, abstraction, and file) Tj T* 0 Tw (handling \227 not as isolated exercises but as parts of one working system.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 102.4 cm
+Q
+q
+1 0 0 1 78 100.9 cm
+q
+.5 w
+1 J
+.898039 .905882 .921569 RG
+n 0 0 m 456 0 l S
+Q
+Q
+q
+1 0 0 1 78 79.9 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.788235 0.658824 0.298039 RG
+0.8 w
+n
+50.4 52 m
+561.6 52 l
+S
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.788235 0.658824 0.298039 rg
+BT
+1 0 0 1 155.736 38 Tm
+(Made by Syed Muhammad Ahmed  \227  Executive Director\054 TPX Orlando\054 Florida) Tj
+T*
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+0.419608 0.447059 0.501961 rg
+BT
+1 0 0 1 50.4 24 Tm
+(Pharmacy Management System  \227  Project Proposal) Tj
+T*
+ET
+BT
+1 0 0 1 523.2375 24 Tm
+(Page 4 of 9) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+21 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+22 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+23 0 obj
+<<
+/Contents 24 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 25 0 R
+/F2 8 0 R
+/F2-0 26 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 4050
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54 690.4 cm
+q
+.105882 .164706 .290196 rg
+n 0 38 504 -38 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 14 13 cm
+q
+.788235 .658824 .298039 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Chapter 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79.2 10 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Proposed Solution) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.788235 .658824 .298039 RG
+1 w
+n 79.2 0 m 79.2 38 l S
+Q
+Q
+Q
+q
+1 0 0 1 78 676.4 cm
+Q
+q
+1 0 0 1 78 588.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 76 Tm /F3 12 Tf 22 TL -0.148615 Tw (The proposed solution is a Java-based console application built around eight main classes, each) Tj T* 0 Tw .416308 Tw (responsible for a specific part of the system. The design follows the object-oriented principles) Tj T* 0 Tw .882 Tw (covered in this course, with a clear separation between classes so that each part can be built,) Tj T* 0 Tw (tested, and explained independently.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 562.4 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (Medicine.java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 426.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 120 Tm /F3 12 Tf 22 TL 1.065 Tw (This class is the foundation of the entire system. It stores all details of a medicine including) Tj T* 0 Tw .944727 Tw (name, company, price, expiry date, current quantity, minimum stock threshold, drug formula) Tj T* 0 Tw 1.032923 Tw (category, and a flag for prescription requirement. It provides methods to add, update, delete,) Tj T* 0 Tw .6504 Tw (and search medicines. The full inventory is stored as an array of Medicine objects. This class) Tj T* 0 Tw .032308 Tw (also handles the alternative medicine suggestion by scanning the array for medicines that share) Tj T* 0 Tw (the same formula category when a requested item is out of stock.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 400.4 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (FileManager.java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 286.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 98 Tm /F3 12 Tf 22 TL .7335 Tw (This class handles all reading and writing of files. No other class in the system accesses files) Tj T* 0 Tw .492923 Tw (directly. FileManager loads the inventory when the program starts, saves it when the program) Tj T* 0 Tw 1.596 Tw (ends, logs every sale transaction, records every admin action with a timestamp, stores alert) Tj T* 0 Tw .7384 Tw (history, and creates a dated backup copy on shutdown. Keeping all file operations in a single) Tj T* 0 Tw (class ensures consistency and makes errors easy to trace.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 260.4 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (Sales.java and Bill.java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 124.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 120 Tm /F3 12 Tf 22 TL 1.878462 Tw (Sales.java manages the process of selling a medicine. It checks whether sufficient stock is) Tj T* 0 Tw 3.108923 Tw (available, creates a Bill object for the transaction, reduces the quantity in the Medicine) Tj T* 0 Tw 1.836 Tw (inventory, and instructs FileManager to log the sale. Bill.java stores the details of a single) Tj T* 0 Tw 1.642 Tw (transaction \227 medicine name, quantity sold, price per unit, discount applied, total amount,) Tj T* 0 Tw .597333 Tw (date of sale, and the name of the staff member who processed it. It also provides a method to) Tj T* 0 Tw (print a formatted receipt on screen.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 98.4 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (User.java, Admin.java, Staff.java, Customer.java) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.788235 0.658824 0.298039 RG
+0.8 w
+n
+50.4 52 m
+561.6 52 l
+S
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.788235 0.658824 0.298039 rg
+BT
+1 0 0 1 155.736 38 Tm
+(Made by Syed Muhammad Ahmed  \227  Executive Director\054 TPX Orlando\054 Florida) Tj
+T*
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+0.419608 0.447059 0.501961 rg
+BT
+1 0 0 1 50.4 24 Tm
+(Pharmacy Management System  \227  Project Proposal) Tj
+T*
+ET
+BT
+1 0 0 1 523.2375 24 Tm
+(Page 5 of 9) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+25 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+26 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+27 0 obj
+<<
+/Contents 28 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 29 0 R
+/F2 8 0 R
+/F2-0 30 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 3849
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 596.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 120 Tm /F3 12 Tf 22 TL 1.90125 Tw (User is an abstract class that defines the structure shared by all user types, with fields for) Tj T* 0 Tw 4.478 Tw (username, password, and role, and an abstract login method that each subclass must) Tj T* 0 Tw 2.421 Tw (implement. Admin extends User with full access \227 price changes, deletions, activity log) Tj T* 0 Tw 4.035273 Tw (viewing, and discount application. Staff extends User with restricted access limited to) Tj T* 0 Tw .031385 Tw (searching, viewing, and selling. Customer requires no login and can search the inventory, view) Tj T* 0 Tw (medicines, and receive alternative suggestions when a product is unavailable.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 570.4 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (AlertSystem.java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 478.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 76 Tm /F3 12 Tf 22 TL 1.457143 Tw (This class runs automatically every time the program starts. It checks the full inventory for) Tj T* 0 Tw 1.479429 Tw (medicines expiring within thirty days and for items whose stock has dropped below the set) Tj T* 0 Tw .1935 Tw (minimum. All alerts are displayed before the main menu appears and are also saved to an alert) Tj T* 0 Tw (history file through FileManager.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 452.4 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (Menu.java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 294.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 142 Tm /F3 12 Tf 22 TL 1.317176 Tw (This is the entry point of the program and the only class that handles user input and screen) Tj T* 0 Tw 2.9376 Tw (output. It uses a Scanner to read input and displays the appropriate menu based on the) Tj T* 0 Tw 1.026857 Tw (logged-in user. On startup it calls FileManager to load the inventory and AlertSystem to run) Tj T* 0 Tw .696 Tw (checks. On shutdown it saves the inventory and creates a backup. All user choices are routed) Tj T* 0 Tw 1.933714 Tw (from Menu to the appropriate class and method. This design means that when a graphical) Tj T* 0 Tw 1.61025 Tw (interface is added in the future, only this class needs to be replaced \227 all backend classes) Tj T* 0 Tw (remain unchanged.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 268.4 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (Data Flow Overview) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 88.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 164 Tm /F3 12 Tf 22 TL .7864 Tw (When a customer searches for a medicine, Menu calls Medicine to perform the search. If the) Tj T* 0 Tw 2.026286 Tw (item is out of stock, Medicine calls its own alternative suggestion method and returns the) Tj T* 0 Tw 1.837714 Tw (results to Menu for display. When an employee sells a medicine, Menu calls Sales, which) Tj T* 0 Tw .552857 Tw (checks stock through Medicine, creates a Bill, reduces stock, and tells FileManager to log the) Tj T* 0 Tw 1.8728 Tw (sale. When the admin changes a price, Menu verifies the user role, calls Admin to update) Tj T* 0 Tw 1.053429 Tw (Medicine, and FileManager saves and logs the action. Every part of the system does exactly) Tj T* 0 Tw .672 Tw (one job, all classes connect in a logical sequence, and the code stays easy to understand, test,) Tj T* 0 Tw (and extend.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.788235 0.658824 0.298039 RG
+0.8 w
+n
+50.4 52 m
+561.6 52 l
+S
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.788235 0.658824 0.298039 rg
+BT
+1 0 0 1 155.736 38 Tm
+(Made by Syed Muhammad Ahmed  \227  Executive Director\054 TPX Orlando\054 Florida) Tj
+T*
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+0.419608 0.447059 0.501961 rg
+BT
+1 0 0 1 50.4 24 Tm
+(Pharmacy Management System  \227  Project Proposal) Tj
+T*
+ET
+BT
+1 0 0 1 523.2375 24 Tm
+(Page 6 of 9) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+29 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+30 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+31 0 obj
+<<
+/Contents 32 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 33 0 R
+/F2 8 0 R
+/F2-0 34 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+32 0 obj
+<<
+/Length 3965
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 708.4 cm
+Q
+q
+1 0 0 1 78 706.9 cm
+q
+.5 w
+1 J
+.898039 .905882 .921569 RG
+n 0 0 m 456 0 l S
+Q
+Q
+q
+1 0 0 1 78 685.9 cm
+Q
+q
+1 0 0 1 54 647.9 cm
+q
+.105882 .164706 .290196 rg
+n 0 38 504 -38 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 14 13 cm
+q
+.788235 .658824 .298039 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Chapter 5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79.2 10 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Time Frame) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.788235 .658824 .298039 RG
+1 w
+n 79.2 0 m 79.2 38 l S
+Q
+Q
+Q
+q
+1 0 0 1 78 633.9 cm
+Q
+q
+1 0 0 1 78 523.9 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 98 Tm /F3 12 Tf 22 TL 1.2736 Tw (The project will be completed over four weeks, divided into phases. Each phase has a clear) Tj T* 0 Tw .9708 Tw (goal so that the team can track progress and make sure no part of the work is left to the last) Tj T* 0 Tw 3.248727 Tw (minute. The workload is distributed across four working members, each responsible for) Tj T* 0 Tw .8952 Tw (specific classes, so that all four can work in parallel without depending on each other except) Tj T* 0 Tw (where one class requires another to be completed first.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 497.9 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (Phase 1 \227 Core Backend \(Week 1\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 361.9 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 120 Tm /F3 12 Tf 22 TL 1.742571 Tw (The first week focuses on the two most important classes that everything else depends on.) Tj T* 0 Tw 3.762545 Tw (Medicine.java will be completed with all fields, methods, and the alternative medicine) Tj T* 0 Tw .811 Tw (suggestion logic. FileManager.java will be completed with all read and write operations. The) Tj T* 0 Tw .5136 Tw (abstract User class along with Admin, Staff, and Customer will also be built during this week) Tj T* 0 Tw .437647 Tw (as they are independent and can run in parallel. The project folder structure will be set up and) Tj T* 0 Tw (shared with the full team.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 335.9 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (Phase 2 \227 Sales and Alerts \(Week 2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 243.9 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 76 Tm /F3 12 Tf 22 TL .886286 Tw (The second week covers the transactional side of the system. Sales.java and Bill.java will be) Tj T* 0 Tw .228 Tw (built and tested using the Medicine and FileManager classes from week one. AlertSystem.java) Tj T* 0 Tw 1.516 Tw (and DateHelper.java will also be completed during this phase. By the end of week two, all) Tj T* 0 Tw (individual backend classes should be working and tested on their own.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 217.9 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (Phase 3 \227 Integration and Console Testing \(Week 3\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 103.9 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 98 Tm /F3 12 Tf 22 TL -0.146769 Tw (The third week focuses on connecting all classes through Menu.java. The full startup sequence,) Tj T* 0 Tw 1.235077 Tw (shutdown sequence, login system, and all three user menus will be implemented. The entire) Tj T* 0 Tw 1.365 Tw (team will test the console version together, going through every possible scenario including) Tj T* 0 Tw 2.8728 Tw (adding medicines, selling, searching, triggering alerts, and using the alternative medicine) Tj T* 0 Tw (feature. Any issues found will be fixed before the final phase.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.788235 0.658824 0.298039 RG
+0.8 w
+n
+50.4 52 m
+561.6 52 l
+S
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.788235 0.658824 0.298039 rg
+BT
+1 0 0 1 155.736 38 Tm
+(Made by Syed Muhammad Ahmed  \227  Executive Director\054 TPX Orlando\054 Florida) Tj
+T*
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+0.419608 0.447059 0.501961 rg
+BT
+1 0 0 1 50.4 24 Tm
+(Pharmacy Management System  \227  Project Proposal) Tj
+T*
+ET
+BT
+1 0 0 1 523.2375 24 Tm
+(Page 7 of 9) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+33 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+34 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+35 0 obj
+<<
+/Contents 36 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 37 0 R
+/F2 8 0 R
+/F2-0 38 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+36 0 obj
+<<
+/Length 3943
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 712.4 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (Phase 4 \227 GUI and Submission \(Week 4\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 598.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 98 Tm /F3 12 Tf 22 TL .3848 Tw (The fourth week focuses on adding a graphical user interface using Java Swing once the topic) Tj T* 0 Tw -0.110118 Tw (is covered in class. Since Menu.java was designed as a separate layer, the GUI can be added by) Tj T* 0 Tw 2.142 Tw (replacing the Scanner-based interface with Swing windows without changing any backend) Tj T* 0 Tw -0.138 Tw (class. The final report will be completed with screenshots of the working system. The complete) Tj T* 0 Tw (project including code, report, and proposal will be submitted by the deadline.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 570.4 cm
+Q
+q
+1 0 0 1 78 568.9 cm
+q
+.5 w
+1 J
+.898039 .905882 .921569 RG
+n 0 0 m 456 0 l S
+Q
+Q
+q
+1 0 0 1 78 547.9 cm
+Q
+q
+1 0 0 1 54 509.9 cm
+q
+.105882 .164706 .290196 rg
+n 0 38 504 -38 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 14 13 cm
+q
+.788235 .658824 .298039 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Chapter 6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79.2 10 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Conclusion) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.788235 .658824 .298039 RG
+1 w
+n 79.2 0 m 79.2 38 l S
+Q
+Q
+Q
+q
+1 0 0 1 78 495.9 cm
+Q
+q
+1 0 0 1 78 407.9 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 76 Tm /F3 12 Tf 22 TL 3.441231 Tw (The Pharmacy Management System is a project that came from a real problem. Small) Tj T* 0 Tw 4.089 Tw (pharmacies in Pakistan lose money to expired stock, miss sales because of untracked) Tj T* 0 Tw .208 Tw (inventory, and operate with no record-keeping system that can be referred to later. The goal of) Tj T* 0 Tw (this project is to address all of these problems with a single, well-organized Java application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 311.9 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 76 Tm /F3 12 Tf 22 TL .896 Tw (The system handles three types of users with different levels of access, which reflects how a) Tj T* 0 Tw 4.6752 Tw (real pharmacy actually works. The admin controls everything. The employees handle) Tj T* 0 Tw .618 Tw (day-to-day sales. The customers browse and buy without needing an account. This separation) Tj T* 0 Tw (makes the system both secure and straightforward to use.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 215.9 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 76 Tm /F3 12 Tf 22 TL 2.187692 Tw (The alternative medicine feature makes the system more useful than a basic stock tracker) Tj T* 0 Tw 1.4728 Tw (because it actively helps the customer find what they need, even when the exact product is) Tj T* 0 Tw .2745 Tw (unavailable. This kind of practical detail is what makes a system worth using in the real world) Tj T* 0 Tw (rather than just in a lab.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 97.9 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 98 Tm /F3 12 Tf 22 TL 4.45 Tw (From a technical standpoint, the project covers the major concepts from this course.) Tj T* 0 Tw .257 Tw (Inheritance and polymorphism appear in the user hierarchy. Abstraction is applied through the) Tj T* 0 Tw .312 Tw (base User class. Encapsulation is used throughout by keeping all fields private with controlled) Tj T* 0 Tw 1.125818 Tw (access through methods. File handling provides data persistence. Exception handling will be) Tj T* 0 Tw (applied to all file operations and user inputs.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.788235 0.658824 0.298039 RG
+0.8 w
+n
+50.4 52 m
+561.6 52 l
+S
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.788235 0.658824 0.298039 rg
+BT
+1 0 0 1 155.736 38 Tm
+(Made by Syed Muhammad Ahmed  \227  Executive Director\054 TPX Orlando\054 Florida) Tj
+T*
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+0.419608 0.447059 0.501961 rg
+BT
+1 0 0 1 50.4 24 Tm
+(Pharmacy Management System  \227  Project Proposal) Tj
+T*
+ET
+BT
+1 0 0 1 523.2375 24 Tm
+(Page 8 of 9) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+37 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+38 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+39 0 obj
+<<
+/Contents 40 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 41 0 R
+/F2 8 0 R
+/F2-0 42 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+40 0 obj
+<<
+/Length 1893
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 618.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 98 Tm /F3 12 Tf 22 TL .651 Tw (The project is divided between team members in a way that is both fair and purposeful. Each) Tj T* 0 Tw 1.107692 Tw (working member owns specific classes, understands them fully, and can explain them to the) Tj T* 0 Tw -0.0936 Tw (teacher independently. The member handling documentation contributes equally by writing the) Tj T* 0 Tw -0.1064 Tw (proposal, preparing the report, and creating the presentation \227 work that is just as important as) Tj T* 0 Tw (the code itself.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 522.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 76 Tm /F3 12 Tf 22 TL 1.2496 Tw (By the end of this project, the team expects to have a fully working pharmacy management) Tj T* 0 Tw 1.836857 Tw (system that could realistically be used by a small pharmacy, a solid understanding of how) Tj T* 0 Tw 4.3068 Tw (object-oriented design functions in practice, and the experience of building something) Tj T* 0 Tw (complete as a team where every part connects logically to every other part.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 470.4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 32 Tm /F3 12 Tf 22 TL .279333 Tw (This is not just an assignment. It is a chance to build something that solves a real problem and) Tj T* 0 Tw (to learn from actually doing it.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.788235 0.658824 0.298039 RG
+0.8 w
+n
+50.4 52 m
+561.6 52 l
+S
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.788235 0.658824 0.298039 rg
+BT
+1 0 0 1 155.736 38 Tm
+(Made by Syed Muhammad Ahmed  \227  Executive Director\054 TPX Orlando\054 Florida) Tj
+T*
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+0.419608 0.447059 0.501961 rg
+BT
+1 0 0 1 50.4 24 Tm
+(Pharmacy Management System  \227  Project Proposal) Tj
+T*
+ET
+BT
+1 0 0 1 523.2375 24 Tm
+(Page 9 of 9) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+41 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+42 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 43
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000169 00000 n 
+0000000218 00000 n 
+0000000474 00000 n 
+0000004575 00000 n 
+0000004682 00000 n 
+0000004789 00000 n 
+0000004897 00000 n 
+0000005016 00000 n 
+0000005126 00000 n 
+0000005386 00000 n 
+0000009344 00000 n 
+0000009452 00000 n 
+0000009572 00000 n 
+0000009832 00000 n 
+0000013853 00000 n 
+0000013961 00000 n 
+0000014081 00000 n 
+0000014341 00000 n 
+0000018283 00000 n 
+0000018391 00000 n 
+0000018511 00000 n 
+0000018771 00000 n 
+0000022874 00000 n 
+0000022982 00000 n 
+0000023102 00000 n 
+0000023362 00000 n 
+0000027264 00000 n 
+0000027372 00000 n 
+0000027492 00000 n 
+0000027752 00000 n 
+0000031770 00000 n 
+0000031878 00000 n 
+0000031998 00000 n 
+0000032258 00000 n 
+0000036254 00000 n 
+0000036362 00000 n 
+0000036482 00000 n 
+0000036742 00000 n 
+0000038688 00000 n 
+0000038796 00000 n 
+trailer
+<<
+/Size 43
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+38916
+%%EOF
