@@ -203,8 +203,32 @@ PharmacyManagementSystem/
 │   └── backups/
 ├── .gitignore
 └── README.md
-👥 Team Members
-<table> <tr> <th>Name</th> <th>Role / Responsibility</th> </tr> <tr> <td><b>Syed Muhammad Ahmed</b></td> <td>Team Leader – Core Engine, File I/O, GUI</td> </tr> <tr> <td><b>Haseeb Ahmed</b></td> <td>Sales, Billing, Reports</td> </tr> <tr> <td><b>Ali Hassan</b></td> <td>Access Control (User hierarchy)</td> </tr> <tr> <td><b>Laiba Malik</b></td> <td>Integration, Alerts, Menu</td> </tr> <tr> <td><b>Zainab Zeeshan</b></td> <td>Documentation, UML, Presentation</td> </tr> </table>
+<table>
+  <tr>
+    <th align="left">Name</th>
+    <th align="left">Role / Responsibility</th>
+  </tr>
+  <tr>
+    <td align="left"><b>Syed Muhammad Ahmed</b></td>
+    <td align="left">Team Leader – Core Engine, File I/O, GUI</td>
+  </tr>
+  <tr>
+    <td align="left"><b>Haseeb Ahmed</b></td>
+    <td align="left">Sales, Billing, Reports</td>
+  </tr>
+  <tr>
+    <td align="left"><b>Ali Hassan</b></td>
+    <td align="left">Access Control (User hierarchy)</td>
+  </tr>
+  <tr>
+    <td align="left"><b>Laiba Malik</b></td>
+    <td align="left">Integration, Alerts, Menu</td>
+  </tr>
+  <tr>
+    <td align="left"><b>Zainab Zeeshan</b></td>
+    <td align="left">Documentation, UML, Presentation</td>
+  </tr>
+</table>
 📄 License
 This project was developed for educational purposes as part of the Object Oriented Programming (CSP‑122) course at the Institute of Business Management (IoBM) , Spring 2026.
 
