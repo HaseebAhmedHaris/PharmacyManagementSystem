@@ -22,77 +22,73 @@ The **Pharmacy Management System** replaces manual paper‑based records with a 
 
 ---
 
-## ✨ Key Features
+## 📦 Inventory Management
 
-<details>
-<summary><b>📦 Inventory Management</b> (click to expand)</summary>
-
-- Add, update, delete, and search medicines by name or ID  
-- View all medicines in a formatted table with inline low‑stock warnings  
-- Track: name, company, price, expiry date, quantity, minimum threshold, formula category, prescription flag  
+- Add, update, delete, and search medicines by name or ID
+- View all medicines in a formatted table with inline low‑stock warnings
+- Track: name, company, price, expiry date, quantity, minimum threshold, formula category, prescription flag
 - **Filter** and **sort** directly in the GUI
-</details>
 
-<details>
-<summary><b>💰 Sales & Billing</b> (click to expand)</summary>
+---
 
-- Sell medicines – stock reduces automatically  
-- Generate itemised receipts with bill ID, date, and staff name  
-- Apply percentage discounts (Admin only)  
-- **Process refunds** – restores stock and marks bill as refunded  
+## 💰 Sales & Billing
+
+- Sell medicines – stock reduces automatically
+- Generate itemised receipts with bill ID, date, and staff name
+- Apply percentage discounts (Admin only)
+- **Process refunds** – restores stock and marks bill as refunded
 - Block sales of expired medicines
-</details>
 
-<details>
-<summary><b>🔍 Alternative Suggestions</b> (click to expand)</summary>
+---
 
-- When a medicine is out of stock, the system scans for alternatives with the same **formula category**  
+## 🔍 Alternative Suggestions
+
+- When a medicine is out of stock, the system scans for alternatives with the same **formula category**
 - Displays name, price, and available quantity – no dead ends for customers
-</details>
 
-<details>
-<summary><b>🛡️ Role‑Based Access</b> (click to expand)</summary>
+---
+
+## 🛡️ Role‑Based Access
 
 <table>
   <tr>
-    <th>Role</th>
-    <th>Access</th>
+    <th align="left">Role</th>
+    <th align="left">Access</th>
   </tr>
   <tr>
-    <td><b>Admin</b></td>
-    <td>Delete medicines, change prices, apply discounts, process refunds, view all reports &amp; activity log</td>
+    <td align="left"><b>Admin</b></td>
+    <td align="left">Delete medicines, change prices, apply discounts, process refunds, view all reports &amp; activity log</td>
   </tr>
   <tr>
-    <td><b>Staff</b></td>
-    <td>Sell, search, view inventory, add/update medicines (no deletion or price changes)</td>
+    <td align="left"><b>Staff</b></td>
+    <td align="left">Sell, search, view inventory, add/update medicines (no deletion or price changes)</td>
   </tr>
 </table>
-</details>
 
-<details>
-<summary><b>🔔 Proactive Alerts</b> (click to expand)</summary>
+---
 
-- Runs automatically on every startup – before the menu appears  
-- Flags: **expired**, **expiring soon** (7‑day window), and **low‑stock** items  
-- All alerts saved to a history file with timestamps  
+## 🔔 Proactive Alerts
+
+- Runs automatically on every startup – before the menu appears
+- Flags: **expired**, **expiring soon** (7‑day window), and **low‑stock** items
+- All alerts saved to a history file with timestamps
 - Admin can re‑run checks at any time
-</details>
 
-<details>
-<summary><b>📊 Sales Reports (Admin only)</b> (click to expand)</summary>
+---
 
-- Daily, weekly, and monthly summaries  
-- Best‑selling medicine tracker  
+## 📊 Sales Reports (Admin only)
+
+- Daily, weekly, and monthly summaries
+- Best‑selling medicine tracker
 - Profit & Loss statement (revenue – discounts – refunds)
-</details>
 
-<details>
-<summary><b>📁 File Persistence & Backups</b> (click to expand)</summary>
+---
 
-- All data stored in plain text files – no database required  
-- <code>inventory.txt</code>, <code>sales_log.txt</code>, <code>activity_log.txt</code>, <code>alerts_log.txt</code>  
+## 📁 File Persistence & Backups
+
+- All data stored in plain text files – no database required
+- <code>inventory.txt</code>, <code>sales_log.txt</code>, <code>activity_log.txt</code>, <code>alerts_log.txt</code>
 - **Automatic dated backup** created on every shutdown (<code>data/backups/</code>)
-</details>
 
 ---
 
@@ -100,32 +96,32 @@ The **Pharmacy Management System** replaces manual paper‑based records with a 
 
 <table>
   <tr>
-    <th>Concept</th>
-    <th>Where Used</th>
+    <th align="left">Concept</th>
+    <th align="left">Where Used</th>
   </tr>
   <tr>
-    <td><kbd>Encapsulation</kbd></td>
-    <td>All classes have <code>private</code> fields with getters/setters</td>
+    <td align="left"><kbd>Encapsulation</kbd></td>
+    <td align="left">All classes have <code>private</code> fields with getters/setters</td>
   </tr>
   <tr>
-    <td><kbd>Inheritance</kbd></td>
-    <td><code>Admin</code> and <code>Staff</code> extend abstract <code>User</code></td>
+    <td align="left"><kbd>Inheritance</kbd></td>
+    <td align="left"><code>Admin</code> and <code>Staff</code> extend abstract <code>User</code></td>
   </tr>
   <tr>
-    <td><kbd>Abstraction</kbd></td>
-    <td><code>User</code> is abstract with <code>showCapabilities()</code></td>
+    <td align="left"><kbd>Abstraction</kbd></td>
+    <td align="left"><code>User</code> is abstract with <code>showCapabilities()</code></td>
   </tr>
   <tr>
-    <td><kbd>Polymorphism</kbd></td>
-    <td><code>Menu</code> holds <code>User</code> references that resolve to <code>Admin</code> or <code>Staff</code> at runtime</td>
+    <td align="left"><kbd>Polymorphism</kbd></td>
+    <td align="left"><code>Menu</code> holds <code>User</code> references that resolve to <code>Admin</code> or <code>Staff</code> at runtime</td>
   </tr>
   <tr>
-    <td><kbd>Composition</kbd></td>
-    <td><code>Sales</code> contains an <code>ArrayList&lt;Bill&gt;</code></td>
+    <td align="left"><kbd>Composition</kbd></td>
+    <td align="left"><code>Sales</code> contains an <code>ArrayList&lt;Bill&gt;</code></td>
   </tr>
   <tr>
-    <td><kbd>File I/O</kbd></td>
-    <td>All persistence handled by a single <code>FileManager</code> class</td>
+    <td align="left"><kbd>File I/O</kbd></td>
+    <td align="left">All persistence handled by a single <code>FileManager</code> class</td>
   </tr>
 </table>
 
@@ -150,93 +146,42 @@ The **Pharmacy Management System** replaces manual paper‑based records with a 
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Java Development Kit (JDK) **17** or higher
 - Git (optional, for cloning)
 
-### Installation & Run
+---
+
+### 📥 Installation
+
+**Step 1:** Clone the repository
 
 ```bash
-# 1. Clone the repository
 git clone https://github.com/HaseebAhmedHarris/PharmacyManagementSystem.git
 cd PharmacyManagementSystem
+🔨 Compilation
+Step 2: Compile all Java files
 
-# 2. Compile all Java files
+bash
 javac *.java
+▶️ How to Run
+Step 3: Launch the application
 
-# 3. Launch the application
+bash
 java Launcher
-You will be prompted to select:
+You will be prompted to select an interface mode:
 
-<kbd>1</kbd> – Console Mode (terminal)
+<table> <tr> <th align="left">Key</th> <th align="left">Mode</th> </tr> <tr> <td align="left"><kbd>1</kbd></td> <td align="left"><b>Console Mode</b> (terminal)</td> </tr> <tr> <td align="left"><kbd>2</kbd></td> <td align="left"><b>GUI Mode</b> (Swing windows)</td> </tr> </table>
+✅ Quick Start
+Here's the entire setup process in one go:
 
-<kbd>2</kbd> – GUI Mode (Swing windows)
+bash
+# Clone, compile, and run
+git clone https://github.com/HaseebAhmedHarris/PharmacyManagementSystem.git
+cd PharmacyManagementSystem
+javac *.java
+java Launcher
 
 🔑 Default Login Credentials
-<table> <tr> <th>Role</th> <th>Username</th> <th>Password</th> </tr> <tr> <td><b>Admin</b></td> <td><code>admin</code></td> <td><code>admin123</code></td> </tr> <tr> <td><b>Admin</b></td> <td><code>owner</code></td> <td><code>owner123</code></td> </tr> <tr> <td><b>Staff</b></td> <td><code>staff1</code></td> <td><code>staff123</code></td> </tr> <tr> <td><b>Staff</b></td> <td><code>staff2</code></td> <td><code>staff456</code></td> </tr> </table>
+<table> <tr> <th align="left">Role</th> <th align="left">Username</th> <th align="left">Password</th> </tr> <tr> <td align="left"><b>Admin</b></td> <td align="left"><code>admin</code></td> <td align="left"><code>admin123</code></td> </tr> <tr> <td align="left"><b>Admin</b></td> <td align="left"><code>owner</code></td> <td align="left"><code>owner123</code></td> </tr> <tr> <td align="left"><b>Staff</b></td> <td align="left"><code>staff1</code></td> <td align="left"><code>staff123</code></td> </tr> <tr> <td align="left"><b>Staff</b></td> <td align="left"><code>staff2</code></td> <td align="left"><code>staff456</code></td> </tr> </table>
 ⚠️ The login screen locks after 3 failed attempts.
-
-📂 Data Files
-All persistent data lives in the <code>data/</code> folder:
-
-<table> <tr> <th>File</th> <th>Contents</th> <th>Update Frequency</th> </tr> <tr> <td><code>inventory.txt</code></td> <td>Full medicine list (CSV)</td> <td>On every add/update/delete/sale</td> </tr> <tr> <td><code>sales_log.txt</code></td> <td>Every transaction (appended)</td> <td>Every sale or refund</td> </tr> <tr> <td><code>activity_log.txt</code></td> <td>Admin actions with timestamps</td> <td>Every admin action</td> </tr> <tr> <td><code>alerts_log.txt</code></td> <td>Expiry / low‑stock history</td> <td>Every startup</td> </tr> <tr> <td><code>backups/</code></td> <td>Dated inventory snapshots</td> <td>Every shutdown</td> </tr> </table>
-📁 Project Structure
-text
-PharmacyManagementSystem/
-├── Admin.java
-├── AlertSystem.java
-├── Bill.java
-├── DataLoader.java
-├── DateHelper.java
-├── FileManager.java
-├── Launcher.java          ← Entry point
-├── Medicine.java
-├── Menu.java              ← Console interface
-├── PharmacyGUI.java       ← Swing interface
-├── Sales.java
-├── Staff.java
-├── User.java
-├── data/                  ← Created at runtime
-│   ├── inventory.txt
-│   ├── sales_log.txt
-│   ├── activity_log.txt
-│   ├── alerts_log.txt
-│   └── backups/
-├── .gitignore
-└── README.md
-<table>
-  <tr>
-    <th align="left">Name</th>
-    <th align="left">Role / Responsibility</th>
-  </tr>
-  <tr>
-    <td align="left"><b>Syed Muhammad Ahmed</b></td>
-    <td align="left">Team Leader – Core Engine, File I/O, GUI</td>
-  </tr>
-  <tr>
-    <td align="left"><b>Haseeb Ahmed</b></td>
-    <td align="left">Sales, Billing, Reports</td>
-  </tr>
-  <tr>
-    <td align="left"><b>Ali Hassan</b></td>
-    <td align="left">Access Control (User hierarchy)</td>
-  </tr>
-  <tr>
-    <td align="left"><b>Laiba Malik</b></td>
-    <td align="left">Integration, Alerts, Menu</td>
-  </tr>
-  <tr>
-    <td align="left"><b>Zainab Zeeshan</b></td>
-    <td align="left">Documentation, UML, Presentation</td>
-  </tr>
-</table>
-📄 License
-This project was developed for educational purposes as part of the Object Oriented Programming (CSP‑122) course at the Institute of Business Management (IoBM) , Spring 2026.
-
-🙏 Acknowledgements
-IoBM faculty for their guidance and support.
-
-All team members for their dedication and collaboration.
-
-The OOP principles that turned a problem statement into a working system.
-
-<div align="center"> <sub>Built with ❤️ by the Limitless Group</sub> <br> <sub>© 2026 – Institute of Business Management</sub> </div> ```
