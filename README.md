@@ -181,16 +181,15 @@ PharmacyManagementSystem/
 │   └── backups/
 ├── .gitignore
 └── README.md
+
 👥 Team Members
 <table> <tr> <th>Name</th> <th>Role / Responsibility</th> </tr> <tr> <td><b>Syed Muhammad Ahmed</b></td> <td>Team Leader – Core Engine, File I/O, GUI</td> </tr> <tr> <td><b>Haseeb Ahmed</b></td> <td>Sales, Billing, Reports</td> </tr> <tr> <td><b>Ali Hassan</b></td> <td>Access Control (User hierarchy)</td> </tr> <tr> <td><b>Laiba Malik</b></td> <td>Integration, Alerts, Menu</td> </tr> <tr> <td><b>Zainab Zeeshan</b></td> <td>Documentation, UML, Presentation</td> </tr> </table>
-📄 License
-This project was developed for educational purposes as part of the Object Oriented Programming (CSP‑122) course at the Institute of Business Management (IoBM) , Spring 2026.
 
-🙏 Acknowledgements
-IoBM faculty for their guidance and support.
 
 All team members for their dedication and collaboration.
 
 The OOP principles that turned a problem statement into a working system.
+📄 License
+This project was developed for educational purposes as part of the Object Oriented Programming (CSP‑122) course at the Institute of Business Management (IoBM) , Spring 2026.
 
-<div align="center"> <sub>Built with ❤️ by the Limitless Group</sub> <br> <sub>© 2026 – Institute of Business Management</sub> </div> ```
+<div align="center"> <sub>Built with ❤️ by the Limitless Group</sub> <br> <sub>© 2026 – Institute of Business Management</sub> </div> 
