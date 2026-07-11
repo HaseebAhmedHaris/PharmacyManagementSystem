@@ -53,10 +53,20 @@ The **Pharmacy Management System** replaces manual paper‑based records with a 
 <details>
 <summary><b>🛡️ Role‑Based Access</b> (click to expand)</summary>
 
-| Role   | Access |
-|--------|--------|
-| **Admin** | Delete medicines, change prices, apply discounts, process refunds, view all reports & activity log |
-| **Staff** | Sell, search, view inventory, add/update medicines (no deletion or price changes) |
+<table>
+  <tr>
+    <th>Role</th>
+    <th>Access</th>
+  </tr>
+  <tr>
+    <td><b>Admin</b></td>
+    <td>Delete medicines, change prices, apply discounts, process refunds, view all reports &amp; activity log</td>
+  </tr>
+  <tr>
+    <td><b>Staff</b></td>
+    <td>Sell, search, view inventory, add/update medicines (no deletion or price changes)</td>
+  </tr>
+</table>
 </details>
 
 <details>
@@ -80,22 +90,44 @@ The **Pharmacy Management System** replaces manual paper‑based records with a 
 <summary><b>📁 File Persistence & Backups</b> (click to expand)</summary>
 
 - All data stored in plain text files – no database required  
-- `inventory.txt`, `sales_log.txt`, `activity_log.txt`, `alerts_log.txt`  
-- **Automatic dated backup** created on every shutdown (`data/backups/`)
+- <code>inventory.txt</code>, <code>sales_log.txt</code>, <code>activity_log.txt</code>, <code>alerts_log.txt</code>  
+- **Automatic dated backup** created on every shutdown (<code>data/backups/</code>)
 </details>
 
 ---
 
 ## 🧠 OOP Concepts Applied
 
-| Concept | Where Used |
-|---------|------------|
-| <kbd>Encapsulation</kbd> | All classes have <code>private</code> fields with getters/setters |
-| <kbd>Inheritance</kbd> | <code>Admin</code> and <code>Staff</code> extend abstract <code>User</code> |
-| <kbd>Abstraction</kbd> | <code>User</code> is abstract with <code>showCapabilities()</code> |
-| <kbd>Polymorphism</kbd> | <code>Menu</code> holds <code>User</code> references that resolve to <code>Admin</code> or <code>Staff</code> at runtime |
-| <kbd>Composition</kbd> | <code>Sales</code> contains an <code>ArrayList&lt;Bill&gt;</code> |
-| <kbd>File I/O</kbd> | All persistence handled by a single <code>FileManager</code> class |
+<table>
+  <tr>
+    <th>Concept</th>
+    <th>Where Used</th>
+  </tr>
+  <tr>
+    <td><kbd>Encapsulation</kbd></td>
+    <td>All classes have <code>private</code> fields with getters/setters</td>
+  </tr>
+  <tr>
+    <td><kbd>Inheritance</kbd></td>
+    <td><code>Admin</code> and <code>Staff</code> extend abstract <code>User</code></td>
+  </tr>
+  <tr>
+    <td><kbd>Abstraction</kbd></td>
+    <td><code>User</code> is abstract with <code>showCapabilities()</code></td>
+  </tr>
+  <tr>
+    <td><kbd>Polymorphism</kbd></td>
+    <td><code>Menu</code> holds <code>User</code> references that resolve to <code>Admin</code> or <code>Staff</code> at runtime</td>
+  </tr>
+  <tr>
+    <td><kbd>Composition</kbd></td>
+    <td><code>Sales</code> contains an <code>ArrayList&lt;Bill&gt;</code></td>
+  </tr>
+  <tr>
+    <td><kbd>File I/O</kbd></td>
+    <td>All persistence handled by a single <code>FileManager</code> class</td>
+  </tr>
+</table>
 
 ---
 
@@ -133,7 +165,6 @@ javac *.java
 
 # 3. Launch the application
 java Launcher
-
 You will be prompted to select:
 
 <kbd>1</kbd> – Console Mode (terminal)
@@ -141,22 +172,13 @@ You will be prompted to select:
 <kbd>2</kbd> – GUI Mode (Swing windows)
 
 🔑 Default Login Credentials
-Role	Username	Password
-<b>Admin</b>	<code>admin</code>	<code>admin123</code>
-<b>Admin</b>	<code>owner</code>	<code>owner123</code>
-<b>Staff</b>	<code>staff1</code>	<code>staff123</code>
-<b>Staff</b>	<code>staff2</code>	<code>staff456</code>
+<table> <tr> <th>Role</th> <th>Username</th> <th>Password</th> </tr> <tr> <td><b>Admin</b></td> <td><code>admin</code></td> <td><code>admin123</code></td> </tr> <tr> <td><b>Admin</b></td> <td><code>owner</code></td> <td><code>owner123</code></td> </tr> <tr> <td><b>Staff</b></td> <td><code>staff1</code></td> <td><code>staff123</code></td> </tr> <tr> <td><b>Staff</b></td> <td><code>staff2</code></td> <td><code>staff456</code></td> </tr> </table>
 ⚠️ The login screen locks after 3 failed attempts.
 
 📂 Data Files
 All persistent data lives in the <code>data/</code> folder:
 
-File	Contents	Update Frequency
-<code>inventory.txt</code>	Full medicine list (CSV)	On every add/update/delete/sale
-<code>sales_log.txt</code>	Every transaction (appended)	Every sale or refund
-<code>activity_log.txt</code>	Admin actions with timestamps	Every admin action
-<code>alerts_log.txt</code>	Expiry / low‑stock history	Every startup
-<code>backups/</code>	Dated inventory snapshots	Every shutdown
+<table> <tr> <th>File</th> <th>Contents</th> <th>Update Frequency</th> </tr> <tr> <td><code>inventory.txt</code></td> <td>Full medicine list (CSV)</td> <td>On every add/update/delete/sale</td> </tr> <tr> <td><code>sales_log.txt</code></td> <td>Every transaction (appended)</td> <td>Every sale or refund</td> </tr> <tr> <td><code>activity_log.txt</code></td> <td>Admin actions with timestamps</td> <td>Every admin action</td> </tr> <tr> <td><code>alerts_log.txt</code></td> <td>Expiry / low‑stock history</td> <td>Every startup</td> </tr> <tr> <td><code>backups/</code></td> <td>Dated inventory snapshots</td> <td>Every shutdown</td> </tr> </table>
 📁 Project Structure
 text
 PharmacyManagementSystem/
@@ -181,15 +203,16 @@ PharmacyManagementSystem/
 │   └── backups/
 ├── .gitignore
 └── README.md
-
 👥 Team Members
 <table> <tr> <th>Name</th> <th>Role / Responsibility</th> </tr> <tr> <td><b>Syed Muhammad Ahmed</b></td> <td>Team Leader – Core Engine, File I/O, GUI</td> </tr> <tr> <td><b>Haseeb Ahmed</b></td> <td>Sales, Billing, Reports</td> </tr> <tr> <td><b>Ali Hassan</b></td> <td>Access Control (User hierarchy)</td> </tr> <tr> <td><b>Laiba Malik</b></td> <td>Integration, Alerts, Menu</td> </tr> <tr> <td><b>Zainab Zeeshan</b></td> <td>Documentation, UML, Presentation</td> </tr> </table>
+📄 License
+This project was developed for educational purposes as part of the Object Oriented Programming (CSP‑122) course at the Institute of Business Management (IoBM) , Spring 2026.
 
+🙏 Acknowledgements
+IoBM faculty for their guidance and support.
 
 All team members for their dedication and collaboration.
 
 The OOP principles that turned a problem statement into a working system.
-📄 License
-This project was developed for educational purposes as part of the Object Oriented Programming (CSP‑122) course at the Institute of Business Management (IoBM) , Spring 2026.
 
-<div align="center"> <sub>Built with ❤️ by the Limitless Group</sub> <br> <sub>© 2026 – Institute of Business Management</sub> </div> 
+<div align="center"> <sub>Built with ❤️ by the Limitless Group</sub> <br> <sub>© 2026 – Institute of Business Management</sub> </div> ```
