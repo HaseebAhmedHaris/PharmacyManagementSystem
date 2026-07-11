@@ -133,3 +133,64 @@ javac *.java
 
 # 3. Launch the application
 java Launcher
+
+You will be prompted to select:
+
+<kbd>1</kbd> – Console Mode (terminal)
+
+<kbd>2</kbd> – GUI Mode (Swing windows)
+
+🔑 Default Login Credentials
+Role	Username	Password
+<b>Admin</b>	<code>admin</code>	<code>admin123</code>
+<b>Admin</b>	<code>owner</code>	<code>owner123</code>
+<b>Staff</b>	<code>staff1</code>	<code>staff123</code>
+<b>Staff</b>	<code>staff2</code>	<code>staff456</code>
+⚠️ The login screen locks after 3 failed attempts.
+
+📂 Data Files
+All persistent data lives in the <code>data/</code> folder:
+
+File	Contents	Update Frequency
+<code>inventory.txt</code>	Full medicine list (CSV)	On every add/update/delete/sale
+<code>sales_log.txt</code>	Every transaction (appended)	Every sale or refund
+<code>activity_log.txt</code>	Admin actions with timestamps	Every admin action
+<code>alerts_log.txt</code>	Expiry / low‑stock history	Every startup
+<code>backups/</code>	Dated inventory snapshots	Every shutdown
+📁 Project Structure
+text
+PharmacyManagementSystem/
+├── Admin.java
+├── AlertSystem.java
+├── Bill.java
+├── DataLoader.java
+├── DateHelper.java
+├── FileManager.java
+├── Launcher.java          ← Entry point
+├── Medicine.java
+├── Menu.java              ← Console interface
+├── PharmacyGUI.java       ← Swing interface
+├── Sales.java
+├── Staff.java
+├── User.java
+├── data/                  ← Created at runtime
+│   ├── inventory.txt
+│   ├── sales_log.txt
+│   ├── activity_log.txt
+│   ├── alerts_log.txt
+│   └── backups/
+├── .gitignore
+└── README.md
+👥 Team Members
+<table> <tr> <th>Name</th> <th>Role / Responsibility</th> </tr> <tr> <td><b>Syed Muhammad Ahmed</b></td> <td>Team Leader – Core Engine, File I/O, GUI</td> </tr> <tr> <td><b>Haseeb Ahmed</b></td> <td>Sales, Billing, Reports</td> </tr> <tr> <td><b>Ali Hassan</b></td> <td>Access Control (User hierarchy)</td> </tr> <tr> <td><b>Laiba Malik</b></td> <td>Integration, Alerts, Menu</td> </tr> <tr> <td><b>Zainab Zeeshan</b></td> <td>Documentation, UML, Presentation</td> </tr> </table>
+📄 License
+This project was developed for educational purposes as part of the Object Oriented Programming (CSP‑122) course at the Institute of Business Management (IoBM) , Spring 2026.
+
+🙏 Acknowledgements
+IoBM faculty for their guidance and support.
+
+All team members for their dedication and collaboration.
+
+The OOP principles that turned a problem statement into a working system.
+
+<div align="center"> <sub>Built with ❤️ by the Limitless Group</sub> <br> <sub>© 2026 – Institute of Business Management</sub> </div> ```
