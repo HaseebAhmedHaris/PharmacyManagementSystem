@@ -14,12 +14,6 @@
 
 ---
 
-<p align="center">
-  <img src="screenshot.png" alt="Dashboard Preview" width="700"/>
-  <br>
-  <em>Modern dark‑themed GUI with real‑time statistics and alerts</em>
-</p>
-
 ## 📌 Overview
 
 The **Pharmacy Management System** replaces manual paper‑based records with a digital solution that manages inventory, automates sales, enforces role‑based access, and issues proactive alerts for stock and expiry. Built as part of the **Object Oriented Programming (CSP‑122)** course at the Institute of Business Management, this project demonstrates all four core OOP concepts in a real‑world, functional application.
