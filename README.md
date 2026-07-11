@@ -159,3 +159,14 @@ The **Pharmacy Management System** replaces manual paper‑based records with a 
 ```bash
 git clone https://github.com/HaseebAhmedHarris/PharmacyManagementSystem.git
 cd PharmacyManagementSystem
+
+🔨 Compilation
+Step 2: Compile all Java files
+
+bash
+javac *.java
+▶️ How to Run
+Step 3: Launch the application
+
+bash
+java Launcher
