@@ -161,12 +161,11 @@ git clone https://github.com/HaseebAhmedHarris/PharmacyManagementSystem.git
 cd PharmacyManagementSystem
 
 🔨 Compilation
+
 Step 2: Compile all Java files
-
-bash
 javac *.java
-▶️ How to Run
-Step 3: Launch the application
 
-bash
+▶️ How to Run
+
+Step 3: Launch the application
 java Launcher
