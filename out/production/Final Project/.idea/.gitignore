@@ -1,10 +1,18 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-# Ignored default folder with query files
-/queries/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Compiled Java classes
+*.class
+
+# Project data files (optional – if you want to keep them, remove these lines)
+# data/backups/
+# data/inventory.txt
+# data/sales_log.txt
+# data/activity_log.txt
+# data/alerts_log.txt
+
+# System files
+.DS_Store
+Thumbs.db

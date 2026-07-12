@@ -603,3 +603,33 @@
 12/07/2026 02:29:52 | EXPIRED! Tramadol (ID: 2005) | expired on 01 Jul 2026
 12/07/2026 02:29:52 | EXPIRED! Augmentin (ID: 3001) | expired on 01 Jun 2026
 12/07/2026 02:29:52 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+13/07/2026 01:06:34 | EXPIRING SOON! Gaviscon (ID: 1005) | expires in 19 day(s) on 01 Aug 2026
+13/07/2026 01:06:34 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+13/07/2026 01:06:34 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+13/07/2026 01:06:34 | EXPIRED! Tramadol (ID: 2005) | expired on 01 Jul 2026
+13/07/2026 01:06:34 | EXPIRED! Augmentin (ID: 3001) | expired on 01 Jun 2026
+13/07/2026 01:06:34 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+13/07/2026 01:06:46 | EXPIRING SOON! Gaviscon (ID: 1005) | expires in 19 day(s) on 01 Aug 2026
+13/07/2026 01:06:46 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+13/07/2026 01:06:46 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+13/07/2026 01:06:46 | EXPIRED! Tramadol (ID: 2005) | expired on 01 Jul 2026
+13/07/2026 01:06:46 | EXPIRED! Augmentin (ID: 3001) | expired on 01 Jun 2026
+13/07/2026 01:06:46 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+13/07/2026 01:15:06 | EXPIRING SOON! Gaviscon (ID: 1005) | expires in 19 day(s) on 01 Aug 2026
+13/07/2026 01:15:06 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+13/07/2026 01:15:06 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+13/07/2026 01:15:06 | EXPIRED! Tramadol (ID: 2005) | expired on 01 Jul 2026
+13/07/2026 01:15:06 | EXPIRED! Augmentin (ID: 3001) | expired on 01 Jun 2026
+13/07/2026 01:15:06 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+13/07/2026 01:15:07 | EXPIRING SOON! Gaviscon (ID: 1005) | expires in 19 day(s) on 01 Aug 2026
+13/07/2026 01:15:07 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+13/07/2026 01:15:07 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+13/07/2026 01:15:07 | EXPIRED! Tramadol (ID: 2005) | expired on 01 Jul 2026
+13/07/2026 01:15:07 | EXPIRED! Augmentin (ID: 3001) | expired on 01 Jun 2026
+13/07/2026 01:15:07 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025
+13/07/2026 01:15:12 | EXPIRING SOON! Gaviscon (ID: 1005) | expires in 19 day(s) on 01 Aug 2026
+13/07/2026 01:15:12 | EXPIRED! Xanax (ID: 2001) | expired on 01 Apr 2026
+13/07/2026 01:15:12 | EXPIRED! Morphine (ID: 2003) | expired on 01 Feb 2026
+13/07/2026 01:15:12 | EXPIRED! Tramadol (ID: 2005) | expired on 01 Jul 2026
+13/07/2026 01:15:12 | EXPIRED! Augmentin (ID: 3001) | expired on 01 Jun 2026
+13/07/2026 01:15:12 | EXPIRED! Lantus (ID: 3002) | expired on 01 Dec 2025

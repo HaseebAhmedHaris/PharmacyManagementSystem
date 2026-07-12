@@ -60,6 +60,7 @@ public class PharmacyGUI extends JFrame {
     private Timer       toastTimer;
     private JLabel      statusMeds, statusTime, statusUser;
 
+
     public static void launchGUI() {
         try { UIManager.setLookAndFeel(UIManager.getCrossPlatformLookAndFeelClassName()); }
         catch (Exception ignored) {}
@@ -67,8 +68,28 @@ public class PharmacyGUI extends JFrame {
     }
 
     public PharmacyGUI() {
-        alertSystem = new AlertSystem(30);
-        sales = new Sales();
+            // ==========================================================
+            // 🔥 ADD THIS BLOCK FIRST – loads inventory, data, and alerts
+            // ==========================================================
+            FileManager.initializeFolders();
+            FileManager.loadInventory();
+            if (Medicine.getCount() == 0) {
+                DataLoader.loadDefaultMedicines();
+                FileManager.saveInventory();
+                Medicine.resetIdCounter();
+            }
+
+            alertSystem = new AlertSystem(30);
+            alertSystem.checkAllOnStartup();
+
+            sales = new Sales();
+            // ==========================================================
+
+            // --- THE REST OF YOUR EXISTING CONSTRUCTOR CODE ---
+            setTitle("Pharmacy Management System");
+            setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
+            // ... (all your existing GUI setup: setSize, setLocationRelativeTo, etc.)
+
         setTitle("Pharmacy Management System");
         setDefaultCloseOperation(DO_NOTHING_ON_CLOSE);
         setSize(1400, 860);
@@ -1112,4 +1133,7 @@ public class PharmacyGUI extends JFrame {
             // Check if cancel was pressed - do nothing, otherwise exit without save
         }
     }
-}
+    public static void main(String[] args) {
+        launchGUI();
+    }
+    }

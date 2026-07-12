@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Final Project:jar" />
+      <artifact name="PharmacyManagementSystem:jar" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
