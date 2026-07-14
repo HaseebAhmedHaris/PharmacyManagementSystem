@@ -184,7 +184,7 @@ javac *.java
 java Launcher
 
 🔑 Default Login Credentials
-<table> <tr> <th align="left">Role</th> <th align="left">Username</th> <th align="left">Password</th> </tr> <tr> <td align="left"><b>Admin</b></td> <td align="left"><code>admin</code></td> <td align="left"><code>admin123</code></td> </tr> <tr> <td align="left"><b>Admin</b></td> <td align="left"><code>owner</code></td> <td align="left"><code>owner123</code></td> </tr> <tr> <td align="left"><b>Staff</b></td> <td align="left"><code>staff1</code></td> <td align="left"><code>staff123</code></td> </tr> <tr> <td align="left"><b>Staff</b></td> <td align="left"><code>staff2</code></td> <td align="left"><code>staff456</code></td> </tr> </table>
+<table> <tr> <th align="left">Role</th> <th align="left">Username</th> <th align="left">Password</th> </tr> <tr> <td align="left"><b>Admin</b></td> <td align="left"><code>haseeb</code></td> <td align="left"><code>12345</code></td> </tr> <tr> <td align="left"><b>Admin</b></td> <td align="left"><code>laiba</code></td> <td align="left"><code>12345</code></td> </tr> <tr> <td align="left"><b>Admin</b></td> <td align="left"><code>ahmed</code></td> <td align="left"><code>12345</code></td> </tr> <tr> <td align="left"><b>Admin</b></td> <td align="left"><code>zainab</code></td> <td align="left"><code>12345</code></td> </tr> </table>
 
 ⚠️ The login screen locks after 3 failed attempts.
 
@@ -192,8 +192,9 @@ java Launcher
 All persistent data lives in the <code>data/</code> folder:
 
 <table> <tr> <th align="left">File</th> <th align="left">Contents</th> <th align="center">Update Frequency</th> </tr> <tr> <td align="left"><code>inventory.txt</code></td> <td align="left">Full medicine list (CSV)</td> <td align="center">On every add/update/delete/sale</td> </tr> <tr> <td align="left"><code>sales_log.txt</code></td> <td align="left">Every transaction (appended)</td> <td align="center">Every sale or refund</td> </tr> <tr> <td align="left"><code>activity_log.txt</code></td> <td align="left">Admin actions with timestamps</td> <td align="center">Every admin action</td> </tr> <tr> <td align="left"><code>alerts_log.txt</code></td> <td align="left">Expiry / low‑stock history</td> <td align="center">Every startup</td> </tr> <tr> <td align="left"><code>backups/</code></td> <td align="left">Dated inventory snapshots</td> <td align="center">Every shutdown</td> </tr> </table>
+
 📁 Project Structure
-text
+
 PharmacyManagementSystem/
 ├── Admin.java
 ├── AlertSystem.java
@@ -219,10 +220,12 @@ PharmacyManagementSystem/
 
 👥 Team Members
 <table> <tr> <th align="left">Name</th> <th align="left">Role / Responsibility</th> </tr> <tr> <td align="left"><b>Syed Muhammad Ahmed</b></td> <td align="left">Team Leader – Core Engine, File I/O, GUI</td> </tr> <tr> <td align="left"><b>Haseeb Ahmed</b></td> <td align="left">Sales, Billing, Reports</td> </tr> <tr> <td align="left"><b>Ali Hassan</b></td> <td align="left">Access Control (User hierarchy)</td> </tr> <tr> <td align="left"><b>Laiba Malik</b></td> <td align="left">Integration, Alerts, Menu</td> </tr> <tr> <td align="left"><b>Zainab Zeeshan</b></td> <td align="left">Documentation, UML, Presentation</td> </tr> </table>
+
 📄 License
 This project was developed for educational purposes as part of the Object Oriented Programming (CSP‑122) course at the Institute of Business Management (IoBM) , Spring 2026.
 
 🙏 Acknowledgements
+
 IoBM faculty for their guidance and support.
 
 All team members for their dedication and collaboration.
